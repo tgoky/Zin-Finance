@@ -1,0 +1,1868 @@
+{
+  "get-started-button": "Get started on Zin",
+  "404-button": "Go to homepage",
+  "404-message": "Sorry, page not found.",
+  "about": {
+    "heading": "About us",
+    "description": "Zin mission is to provide the best and most trusted entry point to deploy your capital. We are building Zin.app to let our users benefit from all of the potential in DeFi.\n\n Our team is made of passionate thinkers and builders.",
+    "careers-link": "Join Us",
+    "pics-title": "Meet the team"
+  },
+  "wallet-wrong-network": "Oops, your wallet is not on the right network.",
+  "app-wrong-network": "Oops, your wallet is not supported by the current Zin.app network.",
+  "wallet-wrong-network-desc": "It seems your wallet is running on a different network from Zin.app. Please manually change the network in your wallet, or you can click the button below.",
+  "app-wrong-network-desc": "It seems that Zin.app is currently running on network that is not supported by your wallet. Please click on the button below to change it.",
+  "user-wrong-network-desc": "It seems your wallet is running on a different network from Zin.app. Please manually change the network in your wallet.",
+  "switch-network": "Switch network",
+  "switch-to-mainnet": "Switch to Mainnet",
+  "acceptance-check-failed": "Acceptance check failed",
+  "acceptance-save-failed": "Acceptance save failed",
+  "acceptance-save-in-progress": "Saving acceptance...",
+  "account": "Account",
+  "account-privacy": "Privacy",
+  "account-support": "Support",
+  "account-terms": "Terms",
+  "activity": "Activity",
+  "and": "and",
+  "address": "Address",
+  "address-invalid": "Address not found",
+  "add-stop-loss": "Add Stop-Loss",
+  "update-stop-loss": "Update Stop-Loss",
+  "back-to-vault-overview": "Back to Vault Overview",
+  "cancel-stop-loss": "Cancel Stop-Loss",
+  "adding-auto-sell": "Adding Auto-Sell",
+  "cancelling-auto-sell": "Cancelling Auto-Sell",
+  "adjust-your-position": "Adjust your position",
+  "adjust-your-position-additional": "Adjust multiple with this transaction",
+  "after": "After",
+  "after-closing": "{{token}} after closing",
+  "after-next": "After + Next",
+  "all-assets": "All Assets",
+  "amount": "Amount",
+  "approve-allowance": "Approve Allowance",
+  "approving-allowance": "Approving Allowance",
+  "back": "Back",
+  "ok": "OK",
+  "back-to-editing": "Back to editing",
+  "view-vault-link": "<0>View Vault -></0>",
+  "balance": "Balance",
+  "balance-insufficient": "Not enough Dai in your wallet",
+  "balances": "Balances",
+  "adding-auto-buy": "Adding Auto-Buy trigger",
+  "cancelling-auto-buy": "Removing Auto-Buy trigger",
+  "buy": "Buy",
+  "careers": {
+    "heading": "Open Roles",
+    "intro": "We believe in talent. Join us to build the next generation of DeFi.",
+    "cta-button": "Apply",
+    "back-link": "Back to Careers",
+    "no-open-positions": "There are currently no roles available at this time, but we are always looking for the best talents to join us.",
+    "no-positions-you-like": "You haven't found something that you like? Show us your interest, we are always looking for the best talents to join us!",
+    "write-us": "Send us your CV to "
+  },
+  "change-your-vault": "Change your vault",
+  "close": "Close",
+  "close-notification": "Close notification",
+  "close-to": "Close to {{token}}",
+  "close-vault": "Close Vault",
+  "coming-soon": "Coming soon",
+  "completed": "Completed",
+  "compound": "Compound",
+  "confirm": "Confirm",
+  "confirmed-proxy-deployment": "Proxy deployment confirmed",
+  "connect-confirm": "Confirm in {{ connectionKind }}",
+  "connect-email": "Connect with email",
+  "connect-error": "Please authorize this website to access your Ethereum account.",
+  "connect-wallet": "Connect a wallet",
+  "see-products": "See products",
+  "connect-wallet-button": "Connect Wallet",
+  "connect-with": "{{ connectionKind }}",
+  "connect-install-metamask": "Install Metamask",
+  "connected-with": "Connected with {{ connectionKind }}",
+  "contact": {
+    "description": "Send us feedback, questions, or suggestions or below.",
+    "label": {
+      "email": "Email",
+      "message": "Message",
+      "name": "Name (optional)",
+      "subject": "Subject"
+    },
+    "sent": {
+      "failure": "Something went wrong. Please try again.",
+      "success": "Thanks for getting in touch, we’ll get back to you shortly."
+    },
+    "submit": "Send",
+    "title": "Contact Us"
+  },
+  "continue": "Continue",
+  "fact": "Fact",
+  "conversion-fee": "Conversion fee",
+  "copied": "Copied",
+  "copy": "Copy",
+  "copy-address": "Copy address",
+  "country": "Country",
+  "configure-your-vault": "Configure your vault",
+  "edit-vault": "Edit vault",
+  "mark-as-read": "Mark as read",
+  "edit-allowance": "Edit allowance",
+  "reset": "Reset",
+  "finished": "Finished",
+  "create-proxy": "Create a proxy",
+  "create-proxy-btn": "Create Proxy",
+  "create-proxy-desc": "In order to use Savings and other features, you will need a wallet proxy.",
+  "smart-proxy-desc": "To close your vault, a part of your position will be sold to payback the outstanding debt. The rest of your collateral will be send to your address.",
+  "create-vault": "Create Vault",
+  "create-your-vault": "Create your vault",
+  "creating-proxy": "Creating Proxy",
+  "creating-vault": "Creating Vault",
+  "proxy-advantages": [
+    "Just one proxy needed per account",
+    "Enables your wallet to interact with the Maker protocol",
+    "More gas efficient"
+  ],
+  "proxy-advantages-new": [
+    "<1>Just one</1> proxy needed per account",
+    "Enables your wallet to interact with the Maker protocol",
+    "More gas efficient"
+  ],
+  "proxy-waiting-text": "Read more on smart proxy in the",
+  "proxy-waiting-text-link": "Knowledge Base",
+  "creating-proxy-contract": "Creating your smart proxy contract",
+  "currency": "Currency",
+  "custom": "Custom",
+  "please-try-again-later": "Please try again later",
+  "dai-being-generated": "Dai being generated",
+  "dai-paying-back": "Dai paying back ({{amount}})",
+  "dai-depositing": "Dai depositing ({{amount}})",
+  "dai-paying-back-label": "Dai paying back",
+  "dai-savings-rate": "Dai Savings Rate",
+  "decide-later": "Decide later",
+  "deposit": "Deposit",
+  "disconnect": "Disconnect",
+  "disconnect-magic": "Log out",
+  "disconnect-wallet": "Disconnect Wallet",
+  "earning": "Earning",
+  "edit-token-allowance": "Edit {{token}} allowance",
+  "edit-vault-details": "Edit Vault details",
+  "email": "Email",
+  "pending": "Pending...",
+  "email-invalid": "Provided email is invalid",
+  "email-required": "Email address is required",
+  "erc20-approve-description-pending": "Unlocking transfer of {{ token }}",
+  "erc20-approve-description-recent": "Unlocked transfer of {{ token }}",
+  "erc20-approve-description-recent-failed": "Failed to unlock transfer of {{ token }}",
+  "erc20-approve-notification": "Unlocking {{ token }}",
+  "erc20-approve-notification-past": "Unlocked {{ token }}",
+  "erc20-disapprove-description-pending": "Locking transfer of {{ token }}",
+  "erc20-disapprove-description-recent": "Locked transfer of {{ token }}",
+  "erc20-disapprove-description-recent-failed": "Failed to lock transfer of {{ token }}",
+  "erc20-disapprove-notification": "Locking {{ token }}",
+  "erc20-disapprove-notification-past": "Locked {{ token }}",
+  "error-header": "Lost connection",
+  "error-message": "It looks like we lost a connection to some data. Hit reload below to reload your page. If this error persists, please get in touch at support@zin.app",
+  "error-button-reload": "Reload page",
+  "error-button": "More info",
+  "exchange": {
+    "onboarding": {
+      "title": "Say Hello to Zin Swap",
+      "body": "Quickly and securely swap tokens directly on Zin. Visit <0>Zin Swap FAQ's to read more →</0>",
+      "faq-url": "https://kb.oasis.app/help/how-to-swap-your-cryptocurrency-using-the-uniswap-widget",
+      "button": "Got it"
+    }
+  },
+  "create-ds-proxy-description-pending": "Creating proxy",
+  "create-ds-proxy-description-recent": "Created proxy",
+  "create-ds-proxy-description-recent-failed": "Failed to create proxy",
+  "set-proxy-owner-description-pending": "Setting proxy owner",
+  "set-proxy-owner-description-recent": "Set proxy owner",
+  "set-proxy-owner-description-recent-failed": "Failed to set proxy owner",
+  "open-vault-description-pending": "Opening {{ ilk }} vault, depositing {{ depositAmount }} {{ token }} and generating {{ generateAmount }} DAI",
+  "open-vault-description-recent": "Opened {{ ilk }} vault, deposited {{ depositAmount }} {{ token }} and generated {{ generateAmount }} DAI",
+  "open-vault-description-recent-failed": "Failed to open {{ ilk }} vault",
+  "deposit-generate-description-pending": "Depositing {{ depositAmount }} {{ token }} and generating {{ generateAmount }} DAI from vault {{ id }}",
+  "deposit-generate-description-recent": "Deposited {{ depositAmount }} {{ token }} and generated {{ generateAmount }} DAI from vault {{ id }}",
+  "deposit-generate-description-recent-failed": "Failed to deposit and generate from vault {{ id }}",
+  "withdraw-payback-description-pending": "Withdrawing {{ withdrawAmount }} {{ token }} and paying back {{ paybackAmount }} DAI to vault {{ id }}",
+  "withdraw-payback-description-recent": "Withdrawn {{ withdrawAmount }} {{ token }} and payed back {{ paybackAmount }} DAI to vault {{ id }}",
+  "withdraw-payback-description-recent-failed": "Failed to withdraw and payback to vault {{ id }}",
+  "reclaim-collateral-description-pending": "Reclaiming {{ amount }} {{ token }} from vault {{ id }}",
+  "reclaim-collateral-description-recent": "Reclaimed {{ amount }} {{ token }} from vault {{ id }}",
+  "reclaim-collateral-description-recent-failed": "Failed to reclaim collateral from vault {{ id }}",
+  "multiply-description-pending": "Creating new Multiply Vault ",
+  "multiply-description-recent": "Multiply Vault {{ id }} was created",
+  "multiply-description-recent-failed": "Multiply Vault failed to be created",
+  "adjust-position-description-pending": "Adjusting Multiply Vault {{ id }}",
+  "adjust-position-description-recent": "Multiply Vault {{ id }} adjusted",
+  "adjust-position-description-recent-failed": "Vault {{ id }} Multiply Adjustment failed",
+  "close-vault-description-pending": "Closing Vault {{ id }} to {{ closeTo }}",
+  "close-vault-description-recent": "Closed Vault {{ id }} to {{ closeTo }}",
+  "close-vault-description-recent-failed": "Closing Vault {{ id }} failed",
+  "event": {
+    "activity": "Activity",
+    "deposit": "Deposited",
+    "time": "Time",
+    "type": "Type",
+    "vault-opened": "Vault Opened"
+  },
+  "exchange-rate": "Exchange rate",
+  "failed": "Failed",
+  "featured": {
+    "cheapest": "Cheapest",
+    "most-popular": "Most popular",
+    "new": "New"
+  },
+  "fees": "Fees",
+  "fees-plus-gas": "Fees + (max gas fee)",
+  "max-gas-fee": "Max gas fee",
+  "gas-explanation": "The Max gas fee is the maximum that will be paid in gas for the transaction. We want your transactions to succeed, so we provide a max gas price of 2x the current base fee + a priority fee that will get you in the next block in 95% of the times. In most cases you will pay a lot less than this maximum.",
+  "filters": {
+    "lp-token": "LP tokens",
+    "stablecoin": "Stablecoins",
+    "popular": "Popular assets"
+  },
+  "gas-estimation-error": "Error",
+  "get-dai": "Get Dai",
+  "get-started": "Get Started",
+  "go-to-vault": "Go to Vault #{{id}}",
+  "go-to-vault-generic": "Go to Vault",
+  "here": "here",
+  "from:": "From",
+  "full": "Full",
+  "history": {
+    "auction_finished_v2": "Auction <0>#{{auctionId}}</0> finished, <0>{{remainingCollateral}} {{token}}</0> remained",
+    "auction_started": "Auction started, <0>{{collateralAmount}} {{token}}</0> taken to cover <0>{{daiAmount}} Dai</0>",
+    "auction_started_v2": "Auction <0>#{{auctionId}}</0> started, <0>{{collateralAmount}} {{token}}</0> taken to cover <0>{{daiAmount}} Dai</0>",
+    "bought": "Bought",
+    "deposit": "Deposited <0>{{collateralAmount}} {{token}}</0> into Vault",
+    "deposited": "Deposited",
+    "withdrawn": "Withdrawn",
+    "generate": "Generated <0>{{daiAmount}}</0> Dai from Vault",
+    "exit-collateral": "Exit collateral",
+    "exit-dai": "Exit Dai",
+    "migrate": "Vault migrated",
+    "move_dest": "Moved <0>{{collateralAmount}} {{token}}</0> and <0>{{daiAmount}}</0> Dai debt to the vault",
+    "move_src": "Moved <0>{{collateralAmount}} {{token}}</0> and <0>{{daiAmount}}</0> Dai debt from the vault",
+    "open": "Opened a new Vault with id <0>#{{cdpId}}</0>",
+    "payback": "Payback <0>{{daiAmount}}</0> Dai to Vault",
+    "transfer": "Vault given to <0>{{transferTo}}</0> by <0>{{transferFrom}}</0>",
+    "withdraw": "Withdrew <0>{{collateralAmount}} {{token}}</0> from Vault",
+    "open_multiply_vault": "Opened multiply Vault",
+    "open_multiply_guni_vault": "Opened multiply Vault",
+    "increase_multiple": "Increased multiple",
+    "decrease_multiple": "Decreased multiple",
+    "close_vault_to_dai": "Closed Vault, exited to Dai",
+    "close_guni_vault_to_dai": "Closed Vault, exited to Dai",
+    "close_vault_to_collateral": "Closed Vault, exited to collateral",
+    "sold": "Sold",
+    "total-fees": "Total fees",
+    "stop-loss": "Stop-Loss trigger",
+    "basic-buy": "Auto-Buy trigger",
+    "basic-sell": "Auto-Sell trigger",
+    "constant-multiple": "Constant-Multiple trigger",
+    "constant-multiple-buy": "Constant-Multiple Buy trigger",
+    "constant-multiple-sell": "Constant-Multiple Sell trigger",
+    "close-to": "Close to",
+    "trigger-col-ratio": "Trigger Col. Ratio",
+    "buy-trigger-col-ratio": "Buy Trigger Col. Ratio",
+    "sell-trigger-col-ratio": "Sell Trigger Col. Ratio",
+    "target-col-ratio": "Target Col. Ratio",
+    "max-gas-fee-in-gwei": "Max gas fee in Gwei",
+    "minimum-sell-price": "Minimum sell price",
+    "maximum-buy-price": "Maximum buy price",
+    "target-multiple": "Target multiple"
+  },
+  "triggers": {
+    "added": "added",
+    "removed": "removed",
+    "executed": "executed",
+    "updated": "updated"
+  },
+  "active-triggers": "active triggers",
+  "jwt-auth-failed": "Signature failed",
+  "jwt-auth-in-progress": "Waiting for signature...",
+  "jwt-auth-rejected": "Signature rejected",
+  "jwt-auth-waiting-acceptance": "Sign message",
+  "keyWithCount": "{{count}} item",
+  "keyWithCount_plural": "{{count}} items",
+  "landing": {
+    "hero": {
+      "headlinePreAssetLandingPages": "Borrow Dai and Multiply your exposure to crypto",
+      "subheaderPreAssetLandingPages": "Open a Maker Vault, deposit 25+ crypto collaterals. Either borrow Dai or buy additional collateral to increase your exposure.<0/> Connect a wallet to start.",
+      "headline": "Deploy your crypto into DeFi with Zin",
+      "subheader": "Earn a yield, Multiply your exposure or Borrow against your crypto. ETH, BTC and 30 more cryptos available to put to work."
+    },
+    "stats": {
+      "30-day-volume": "30 Day Volume",
+      "managed-on-oasis": "Managed on Zin",
+      "median-vault": "Median Vault"
+    },
+    "cards": {
+      "dai": {
+        "title": "Dai Wallet",
+        "description": "Buy, send and manage Dai all in one place. Grow your Dai, access plenty of providers"
+      },
+      "faq": {
+        "title": "Have a question?",
+        "description": "Learn more about Zin, Dai and DeFi at our FAQ’s page"
+      }
+    },
+    "tabs": {
+      "borrow": {
+        "tabLabel": "Borrow on Zin",
+        "tabParaContent": "Borrow Dai against your favorite crypto assets. Use the Dai however you like.",
+        "tabParaLinkContent": "See all Borrow collateral types →"
+      },
+      "multiply": {
+        "tabLabel": "Multiply on Zin",
+        "tabParaContent": "Multiply your exposure to your favorite crypto assets. Browse our featured products here.",
+        "tabParaLinkContent": "See all Multiply collateral types →"
+      },
+      "earn": {
+        "tabLabel": "Earn on Zin",
+        "tabParaContent": "Put your crypto assets to work today. Start generating the best yields. Select your Earn product below.",
+        "tabParaLinkContent": "Learn more about Earn →"
+      }
+    },
+    "info-cards": {
+      "have-some-questions": "Have some questions?",
+      "learn": {
+        "learn": "Learn",
+        "deep-dive": "Deep dive into zin.app functionalities and glossary",
+        "get-started": "Get started",
+        "tutorials": "Tutorials",
+        "key-concepts": "Key concepts"
+      },
+      "support": {
+        "support": "Support",
+        "contact-whenever": "Contact zin.app team whenever you need",
+        "faq": "FAQ",
+        "discord": "Discord",
+        "contact-us": "Contact us",
+        "twitter": "Twitter"
+      },
+      "get-started": "Get started with zin.app",
+      "multiply": {
+        "multiply": "Multiply your assets",
+        "subtitle": "In a single transaction you can open a Maker vault, generate DAI, and spend them for more collateral.",
+        "open-vault": "Open vault"
+      },
+      "borrow": {
+        "borrow-dai": "Borrow Dai",
+        "choose-your-preferred-token": "Choose your preferred token as collateral and open a Maker vault to get DAI",
+        "open-vault": "Open vault"
+      },
+      "manage": {
+        "manage-your-vault": "Manage your vault",
+        "make-actions": "Make actions on your vault whenever you want",
+        "connect-your-wallet": "Connect your wallet"
+      }
+    },
+    "cookie-banner": {
+      "message": "We use the cookies on the website to improve your experience, analyze traffic, and for basic functionality. Cookies are anonymous and do not link to user data. You can still use the website without cookies. For more information, please read our <0>Cookie Policy</0>.",
+      "settings-toggle": "Manage settings",
+      "accept": "Accept",
+      "reject": "Reject",
+      "cookies": {
+        "marketing": {
+          "title": "Marketing Cookies",
+          "description": "zin.app uses anonymised cookies from adRoll to be able to apply retargeting campaigns on advertising platforms."
+        },
+        "analytics": {
+          "title": "Analytics Cookies",
+          "description": "These items help us to understand how the website performs and find where it can be improved."
+        }
+      }
+    }
+  },
+  "languages": "Languages",
+  "lang-dropdown": {
+    "en": "English",
+    "es": "Español",
+    "pt": "Português",
+    "cn": "中文"
+  },
+  "ledger-cancel": "Select another wallet",
+  "ledger-error": "There was an error, please reset",
+  "ledger-legacy": "Ledger Legacy",
+  "ledger-live": "Ledger Live",
+  "ledger-select-address": "Select an address",
+  "ledger-select-title": "Select Ledger Live or Legacy",
+  "manage-vault": {
+    "action-option": "{{action}} {{token}} with this transaction",
+    "dai-available": "Dai available",
+    "dust-limit": "Dust Limit",
+    "liquidation-fee": "Liquidation Fee",
+    "min-collat-ratio": "Min. collateral ratio",
+    "or": "OR",
+    "variable-annual-fee": "Variable Annual Fee",
+    "stability-fee": "Stability Fee",
+    "title": "Manage Vault",
+    "action": "Manage Vault",
+    "current-price": "Current {{token}} Price",
+    "next-price": "Next {{token}} Price",
+    "card": {
+      "collateralization-ratio-calculated": "Your collateralization ratio is calculated by: value of your collateral / Dai debt.",
+      "collateralization-ratio-header2": "Current Collateralization ratio:",
+      "collateralization-ratio-description": "The price used to calculate the value of your collateral is the price obtained from the Maker oracles. Your collateralization ratio needs to be above the minimum required at all times to not get liquidated.",
+      "collateralization-ratio-next-price": "Collateralization ratio on the next price will be:",
+      "collateral-locked-amount": "The total amount of collateral locked in your vault is:",
+      "collateral-locked-USD": "The total value in dollars of the collateral in your vault is:",
+      "collateral-locked-oracles": "We use the current price from the Maker oracles to calculate this value. The current market price of your collateral may differ from this price."
+    }
+  },
+  "earn-vault": {
+    "headlines": {
+      "yield-7": "7 day net APY",
+      "yield-90": "90 day net APY",
+      "total-value-locked": "Total value locked"
+    },
+    "simulate": {
+      "header1": "Duration",
+      "header2": "Earnings after fees",
+      "header3": "Net value",
+      "rowlabel1": "Previous 30 days*",
+      "rowlabel2": "Previous 90 days*",
+      "rowlabel3": "Previous 1 year*",
+      "rowlabel4": "Since inception*",
+      "footnote1": "*Past performance is not indicative of future results.",
+      "footnote2": "**Breakeven is estimated using 30 day APY."
+    }
+  },
+  "manage-insti-vault": {
+    "origination-fee": "Origination Fee",
+    "tooltip": {
+      "origination-fee": "Institutional Vault Origination Fee"
+    },
+    "card": {
+      "current-fixed-fee": "Current Fixed Fee",
+      "next-fee-change": "Next fee change",
+      "term-end": "Term End",
+      "days-remaining": "{{days}} days remaining",
+      "min-active-coll-ratio": {
+        "ratio": "{{percentageRatio}} minimum active coll ratio",
+        "price": "Minimum active Coll ratio Price",
+        "modal": {
+          "para1": "Your collateralization ratio is calculated by: value of your collateral / Dai debt. The minimum active col. ratio is the ratio under which no further debt can be generated, nor collateral withdrawn. This is separate from the liquidation ratio.",
+          "para2": "If a vault is under the min. active col. ratio, collateral can be deposit and debt paid back.",
+          "para3": "The min. active col. ratio price displayed is the price of the collateral at this ratio."
+        }
+      }
+    }
+  },
+  "manage-multiply-vault": {
+    "tooltip": {
+      "vaultId": "The Vault ID is a unique reference for your Maker Vault in zin.app.",
+      "stabilityFee": "The Maker Protocol collects a Stability Fee on Dai that is generated from Maker Vaults. It is a variable-rate fee that changes when Maker’s governing body votes on proposals put forth by Risk Teams.",
+      "liquidationFee": "If your vault is liquidated, a liquidation penalty is added to your vault’s total outstanding debt in Dai, which results in more collateral being sold to cover the outstanding debt. This is done to incentivize vaults owners to avoid liquidation.\nThe size of the liquidation penalty is determined by the Liquidation Fee which is calculated based on the debt in the vault.",
+      "min-collateral": "This is also called the Liquidation Ratio. If the Vault reaches below the minimum collateralization level it is considered undercollateralized and is subject to liquidation. Your collateral will then be partially auctioned off to cover outstanding debt and liquidation fee.",
+      "dust-limit": "The Dust Limit specifies the minimum amount of DAI that can be minted for this type of Vault. This value is also called the \"Debt Floor\"."
+    },
+    "card": {
+      "liquidation-price-description": "The Liquidation Price specifies the collateral price where your vault is subject to liquidation. If you think your vault is too close to liquidation price you can change your multiply vault to have a higher collateralization ratio, you can add more collateral on your own, or you can pay back some of your Dai debt.",
+      "liquidation-price-description-AUTO": "The Liquidation Price is the price at which a Vault becomes vulnerable to liquidation.",
+      "vault-protection-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Felis, dictum est non quisque aenean ac velit adipiscing.",
+      "liquidation-price-current": "Your current liquidation price is:",
+      "liquidation-percentage-below": "That is {{percentageBelow}} below the current price",
+      "buying-power": "Buying power",
+      "buying-power-description": "This is how much DAI you can use to buy more collateral right now. Buying Power specifies the maximum of Dai you can buy more collateral with based on the current state of your position. It is calculated by taking the maximum DAI available to you, using it to purchase more collateral, and locking the collateral back into the vault.",
+      "current-price": "Current Price",
+      "current-price-description": "This is the current price of your vault collateral supplied by the Maker price oracles. There is a one hour delay before the oracle price is made current in the Maker Protocol.",
+      "next-price": "Next Price",
+      "next-price-description": "Here you can see the next price that will go into effect in the Maker Protocol. Compare this with the Liquidation Price to see whether your vault will be liquidated on the next price update.\n{{nextPrice}}",
+      "more-info-oracles": "More information on Maker oracles can be found <0>here</0>",
+      "net-value": "Net Value & P&L",
+      "unrealised-pnl": "P&L",
+      "based-on-price": "The current net value is calculated based on the market price of",
+      "based-on-price-lp": "The current net value is calculated based on the oracle price of",
+      "collateral-value-in-vault": "Collateral value in vault",
+      "dai-debt-in-vault": "Dai debt in vault",
+      "collateral-value": "Collateral Value",
+      "usd-value": "$ Value",
+      "gas-fees": "Gas fees",
+      "market-price-unavailable": "Market price temporally unavailable, please check later",
+      "formula": "The profit & loss is calculated by the following formula: P&L = ((Net value + Cumulative value of the withdrawals - Gas fees spent) - Cumulative value of the deposits) / Cumulative value of the deposits",
+      "net-value-description": "The Net Value is calculated as the current value of the collateral in your vault minus the current debt.\nNote: This will not be exactly equal to the amount you will receive if you close your vault to Dai. This is due to fees applied when swapping collateral to Dai. The Net Value is calculated using the market price for the collateral using 1Inch.",
+      "profit-and-loss": "P&L",
+      "profit-and-loss-description": "TBD",
+      "deposit-collateral-on-vault-under-debt-floor": "You cannot deposit to your vault while it is below the minimum debt required of {{debtFloor}}. To add more collateral, generate Dai to get above the minimum required. Learn more about the Minimum Vault Debt here <0>here</0>)",
+      "stop-loss-coll-ratio": "Stop-Loss Collateral Ratio",
+      "current-stop-loss-coll-ratio": "The current Stop-Loss Collateral Ratio is:",
+      "stop-loss-coll-ratio-desc": "The Stop-Loss Collateral Ratio is the trigger point for executing the Stop-Loss on this Vault based on the Collateral Ratio at the next OSM price. Should the next OSM price take the current Vault Collateralisation Ratio below the Stop-Loss Collateral Ratio, then the Vault will be automatically closed.",
+      "dynamic-stop-price": "Dynamic Stop price",
+      "dynamic-stop-loss-price": "Dynamic Stop-Loss Price",
+      "dynamic-stop-loss-price-desc": "The dynamic stop-loss price is the current price at which this Vault will be closed based on the set Stop-Loss Collateralisation Ratio. The reason this price is dynamic is that the Stop-Loss trigger is based on a collateralisation ratio, so when the Vault is adjusted, or Stability Fees accrue, it automatically adjusts the price at which the Stop-Loss will trigger.",
+      "current-dynamic-stop-loss-price": "The current Dynamic Stop-Loss Price is:",
+      "max-token-on-stop-loss-trigger": "Est. {{token}} on Stop-Loss trigger",
+      "max-token-on-stop-loss-trigger-desc": "The estimated {{token}} on Stop-Loss trigger is the approximate amount of {{token}} you can expect to get returned to the wallet when the Vault has been closed because of Stop-Loss. It is very difficult to give a perfect amount as it depends on several factors at the time of the Stop-Loss trigger, such as market price, available liquidity and gas costs. This calculation assumes a 2% difference from Trigger Price to Market Price. The amount saved compared to liquidation is based on the assumption of not paying a Liquidation Penalty, currently set to {{liquidationPenalty}}.",
+      "current-coll-ratio": "Current coll ratio",
+      "next-coll-ratio": "Next Coll Ratio",
+      "saving-comp-to-liquidation": "Saving compared to liquidation",
+      "above-liquidation-price": "above liquidation price",
+      "on-next-price": "on next price",
+      "up-to": "up to"
+    },
+    "action-tabs": {
+      "adjust": "Adjust",
+      "other": "Other",
+      "borrow": "Borrow"
+    }
+  },
+  "manage-earn-vault": {
+    "overview-earn": "Overview (Earn ID: {{earnId}})",
+    "earnings-to-date": "Earnings to date",
+    "earnings-to-date-after-fees": "After fees {{ afterFees }} {{ symbol }}",
+    "earnings-to-date-modal": "The earnings to date of the position. Calculated as the current net value of the position, minus the cumulative deposits, plus the cumulative withdrawals, and not accounting for the zin fees. The 'After fees' value is accounting for the earnings including the zin fee, and the Ethereum Gas fees.",
+    "net-apy": "Net APY",
+    "net-apy-modal": "The annual percentage yield, accounting for fees.  Calculated as the percentage price increase of the {{ token }} token over the last 7 days, annualised, and subtracting the variable annual fee.",
+    "exposure-modal": "The total exposure of the position, expressed as a multiple of the capital deployed."
+  },
+  "borrow-to-multiply": {
+    "checkmark1": "Multiply your exposure on your {{token}}",
+    "checkmark2": "Adjust risk and exposure in 1 click",
+    "checkmark3": "Actions like using a flash loan, and buying or selling collateral are grouped into a single transaction for greater efficiency and savings",
+    "checkmark4": "You can review the details of the changes on your vault before execution",
+    "subheader2": "Important",
+    "paragraph2": "When you multiply your vault, you acquire collateral for funds you have borrowed against your own collateral. Make sure you understand the associated risks.",
+    "button-not-supported": "Not supported for {{token}}",
+    "button-start": "Multiply this Vault",
+    "button-confirm": "Take me to the Multiply interface",
+    "button-progress": "Transition in progress...",
+    "button-failure": "Something went wrong, try again",
+    "button-success": "Transition completed, refreshing..."
+  },
+  "multiply-to-borrow": {
+    "title1": "View your Vault in the borrow UI",
+    "title2": "You will go back to the Borrow interface",
+    "checkmark1": "Specifically designed for borrowing positions",
+    "checkmark2": "You can change back to the Multiply UI anytime",
+    "checkmark3": "This does not require a transaction",
+    "button-start": "Go to Borrow interface",
+    "button-confirm": "Take me to the Borrow interface",
+    "button-progress": "Transition in progress...",
+    "button-failure": "Something went wrong, try again",
+    "button-success": "Transition completed, refreshing..."
+  },
+  "field-from": "From",
+  "max": "Max",
+  "manage": "Manage",
+  "min-amount": "Minimum amount is {{minAmount}} {{token}}",
+  "minimum": "Minimum",
+  "moving-into-vault": "Moving into Vault",
+  "moving-out-vault": "Moving out of Vault",
+  "multiple": "Multiple",
+  "metamask-unsupported-network": "You are on an unsupported network. Please switch to Mainnet.",
+  "net-value": "Net Value",
+  "nav": {
+    "about": "About",
+    "resources": "Resources",
+    "products": "Products",
+    "team": "Team",
+    "careers": "Careers",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "contact": "Contact",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "knowledge-centre": "Knowledge Centre",
+    "learn": "Learn",
+    "oracles": "Oracles",
+    "dai-wallet": "Dai Wallet",
+    "borrow": "Borrow",
+    "oasis-borrow": "Zin Borrow",
+    "multiply": "Multiply",
+    "more": "More",
+    "assets": "Assets",
+    "earn": "Earn",
+    "select-an-asset": "Select an asset",
+    "referrals": "Referrals",
+    "cookie": "Cookie Policy",
+    "bug-bounty": "Bug Bounty",
+    "brand-assets": "Brand assets",
+    "security": "Security"
+  },
+  "new-to-ethereum": "New to Ethereum? ",
+  "next": "Next",
+  "no-dai": "No Dai",
+  "no-activity": "No activity to show",
+  "not-right-now": "Not right now",
+  "notice-privacy": "By using our site you agree to our <0>Cookie Policy</0>.",
+  "notification-status-complete": "Complete",
+  "notification-status-completed": "Complete",
+  "notification-status-expired": "Expired",
+  "notification-status-failed": "Failed",
+  "notification-status-incomplete": "Incomplete",
+  "notification-status-initialized": "Initialized",
+  "notification-status-pending": "Pending",
+  "notification-status-rejected": "Rejected",
+  "notification-status-sign": "Sign Tx",
+  "of": "of",
+  "one-of-some": "{{one}} of {{some}}",
+  "onramp-leave-message": "By clicking buy, you will leave Zin and be redirected to a third party website where you will complete the buy process.",
+  "open-new-vault": "Open new Vault",
+  "open-vault": {
+    "title": "Open Vault",
+    "simulate": "Simulate"
+  },
+  "or": "or",
+  "outstanding-debt": "Outstanding Debt",
+  "paste": "Paste",
+  "pending-transactions": "Pending Transactions",
+  "permissions": "Set permissions",
+  "permissions-btn": "Set permissions",
+  "permissions-desc": "This permission allows Zin to interact with the Dai in your wallet.",
+  "powered-by": "Powered by",
+  "price": "Price",
+  "proceed": "Proceed",
+  "readonly-alert-message": "You’re currently viewing",
+  "readonly-user-connecting": "Connecting readonly...",
+  "readonly-user-no-proxy": "No proxy for this address",
+  "readonly-user-no-savings": "No savings",
+  "receive": "Receive",
+  "received": "Received",
+  "recent-transactions": "Recent Transactions",
+  "reclaim": "Reclaim collateral",
+  "remaining-in-wallet": "Remaining in Wallet",
+  "retry": "Retry",
+  "retry-allowance-approval": "Retry Allowance approval",
+  "retry-create-proxy": "Retry Create Proxy",
+  "savings": "Savings",
+  "savings-earned": "Savings earned to date",
+  "search-token": "Search token",
+  "select-product": "Select a product",
+  "send": "Send",
+  "send-amount-empty": "Cannot send 0 {{ token }}",
+  "send-amount-exceed-balance": "Not enough {{ token }}",
+  "send-to": "Send to",
+  "sent": "Sent",
+  "seo": {
+    "contact": {
+      "description": "Send us feedback, questions, or suggestions.",
+      "title": "Contact"
+    },
+    "dai": {
+      "description": "A short introduction to Dai, the smarter digital currency.",
+      "title": "Dai"
+    },
+    "default": {
+      "description": "Borrow Dai, a USD pegged Stablecoin, or multiply your exposure using crypto as your collateral",
+      "title": "Zin.app"
+    },
+    "support": {
+      "description": "All the answers to the most common questions.",
+      "title": "FAQs"
+    },
+    "careers": {
+      "title": "Careers",
+      "description": "We believe in talent. Join us to build the next generation of DeFi."
+    },
+    "about": {
+      "title": "About Us",
+      "description": "Zin mission is to provide the best and most trusted entry point to deploy your capital."
+    },
+    "referrals": {
+      "title": "Refer a friend and earn Dai",
+      "description": "Refer a friend is a way to reward Zin.app users. You can invite people to use our products, and both of you earn a percentage of the referred user's fees."
+    },
+    "brand-assets": {
+      "title": "Brand assets",
+      "description": "Find here the Zin.app Logo and graphics."
+    },
+    "security": {
+      "title": "Security",
+      "description": "zin.app is one of the oldest DeFi products with a rigorous approach to security. Users from all over the world trust us with billions of dollars of their funds."
+    }
+  },
+  "set-allowance-for": "Set Allowance for {{token}}",
+  "setting-allowance-for": "Setting Allowance for {{token}}",
+  "setup-proxy": "Setup Proxy",
+  "setup-wallet": "Setup your wallet",
+  "show-more": "Show more",
+  "slider": {
+    "adjust-multiply": {
+      "introduction-header": "Adjust your multiply",
+      "introduction-content": "",
+      "left-label": "Liquidation Price",
+      "right-label": "Collateral Ratio",
+      "left-footer": "Decrease risk",
+      "right-footer": "Increase risk"
+    },
+    "set-stoploss": {
+      "left-label": "Stop-Loss collateral ratio",
+      "right-label": "Dynamic stop price",
+      "left-footer": "Bigger loss",
+      "right-footer": "More likely execution"
+    },
+    "set-auto-take-profit": {
+      "left-label": "Trigger {{token}} price",
+      "right-label": "Trigger collateral ratio",
+      "left-footer": "Lower price",
+      "right-footer": "Higher price"
+    }
+  },
+  "cancel-stoploss": {
+    "summary-header": "Cancel Stop-Loss order summary",
+    "stop-loss-coll-ratio": "Stop-Loss Coll. Ratio",
+    "liquidation": "Liquidation price after cancellation",
+    "total": "Total transaction cost",
+    "max": "Max transaction cost"
+  },
+  "notice": "Notice",
+  "spots-remaining": "{{ spots }} spots remaining",
+  "start-saving": "Start Saving",
+  "system": {
+    "asset": "Asset",
+    "available-to-withdraw": "Available to Withdraw",
+    "total-exposure": "Total {{token}} exposure",
+    "exposure": "exposure",
+    "total-collateral": "Total collateral",
+    "multiple": "Multiple",
+    "est-break-even": "Est. break-even",
+    "est-break-even-value": "{{days}} days",
+    "est-entry-fees": "Est. entry fees",
+    "apy": "APY",
+    "available-to-generate": "Available to Generate",
+    "coll-locked": "Coll. Locked",
+    "coll-ratio": "Coll. Ratio",
+    "collateral": "Collateral",
+    "collateral-locked": "Collateral Locked",
+    "collateral-ratio": "Collateral Ratio",
+    "collateralization-ratio": "Collateralization Ratio",
+    "dai": "Dai",
+    "dai-available": "Dai Available",
+    "dai-debt": "Dai Debt",
+    "deposited": "Deposited",
+    "faq": "FAQ",
+    "in-my-wallet": "In My Wallet",
+    "in-your-wallet": "In Your Wallet",
+    "liquidation-penalty": "Liquidation Penalty",
+    "liquidation-fee": "Liquidation Fee",
+    "liquidation-price": "Liquidation Price",
+    "liquidation-ratio": "Liquidation Ratio",
+    "buying-power": "Buying Power",
+    "net-value": "Net Value",
+    "net-value-pnl": "Net Value & P&L",
+    "dust-limit": "Dust Limit",
+    "min-coll-ratio": "Min Coll. Ratio",
+    "minimum-coll-ratio": "Minimum collateral ratio",
+    "origination-fee": "Origination Fee",
+    "stability-fee": "Stability Fee",
+    "liquidity-available": "Current Liquidity Available",
+    "protocol": "Protocol",
+    "type": "Type",
+    "vault-dai-debt": "Vault Dai Debt",
+    "vault-id": "Vault ID",
+    "oracle-price": "Oracle Price",
+    "market-price": "Market Price",
+    "max-multiple": "Max Multiple",
+    "variable-annual-fee": "Variable Annual Fee",
+    "seven-day-average": "7 day net APY",
+    "ninety-day-average": "90 day net APY",
+    "vault-protection": "Vault Protection",
+    "date": "Date",
+    "overview": "Overview",
+    "protection": "Protection",
+    "optimization": "Optimization",
+    "stop-loss": "Stop-Loss",
+    "basic-sell": "Auto-Sell",
+    "basic-buy": "Auto-Buy",
+    "constant-multiple": "Constant Multiple",
+    "auto-take-profit": "Auto-Take Profit",
+    "history": "History",
+    "vaultinfo": "Vault Info",
+    "position-info": "Position Info",
+    "multiply-buy-coll": "Buy Collateral ({{token}}) with DAI",
+    "multiply-reduce-debt": "Reduce Vault's debt",
+    "actions": {
+      "common": {
+        "close-vault": "Close vault",
+        "edit-position": "Edit Position"
+      },
+      "borrow": {
+        "edit-dai": "Manage DAI",
+        "edit-collateral": "Manage collateral ({{token}})",
+        "switch-to-multiply": "Switch to Multiply"
+      },
+      "multiply": {
+        "adjust": "Adjust",
+        "buy-coll": "Buy Coll.",
+        "reduce-debt": "Reduce Debt",
+        "switch-to-borrow": "Switch to Borrow"
+      },
+      "earn": {
+        "vault-overview": "Vault overview"
+      }
+    },
+    "cards": {
+      "common": {
+        "after": "after"
+      },
+      "liquidation-price": {
+        "footnote": "{{amount}} {{level}} current price",
+        "modal": {
+          "price-relation": "That is {{level}} the current price"
+        }
+      },
+      "collateralization-ratio": {
+        "footnote": "{{amount}} on next price"
+      },
+      "stop-loss-collateral-ratio": {
+        "footnote": "{{amount}} below Current Collateral Ratio"
+      },
+      "dynamic-stop-price": {
+        "footnote": "{{amount}} S/L Coll. Ratio"
+      }
+    },
+    "remove-trigger": "Remove trigger",
+    "add-trigger": "Add trigger"
+  },
+  "token-balance": "{{token}} balance",
+  "token-depositing": "{{token}} depositing {{amount}}",
+  "tos": "Terms of Service",
+  "tos-accept-message": "Before you can get started, you’ll need to read and accept our terms of service.",
+  "tos-accept-message-updated": "We have recently updated our Terms of Service. For security please accept our terms of service to continue.",
+  "tos-acceptance-check-in-progress": "Acceptance check in progress...",
+  "tos-desc": "By creating a Savings pot, I accept Zin",
+  "tos-jwt-signature-message": "It looks like you're new to zin.app or are using a new device to connect. For Security please accept our Terms of Service and sign a message with your wallet to continue.",
+  "tos-jwt-signature-expired-title": "Update Your Signature",
+  "tos-jwt-signature-expired-message": "Either your signature has expired, or an update to our services requires a new signature. Please sign a new message to continue.",
+  "tos-read": "I have read and accept the Terms of Service.",
+  "tos-view": "View Terms of Service",
+  "tos-wallet-connection-in-progress": "Wallet connection in progress...",
+  "tos-welcome": "Welcome",
+  "tos-welcome-updated": "We’ve updated our terms ",
+  "transaction-failed": "Transaction Failed",
+  "transaction-fee": "Transaction fee",
+  "transaction-fee-tooltip-desc": "Transactions fees are currently payable in ETH. The current cost of this action is approx",
+  "trezor-cancel": "Select another wallet",
+  "trezor-error": "There was an error, please reset",
+  "trezor-loading-accounts": "Loading trezor accounts...",
+  "trezor-select-address": "Select an address",
+  "try-again": "Try again",
+  "unlimited-allowance": "Unlimited Allowance",
+  "unlimited": "unlimited",
+  "vault": {
+    "current-price": "Current {{token}}/USD Price in {{time}}",
+    "header": "{{ilk}} Vault {{id}}",
+    "insti-header": "Institutional {{ilk}} Vault {{id}}",
+    "next-price": "Next price in {{count}} minute",
+    "next-price-any-time": "Next price in <2 minutes",
+    "next-price_plural": "Next price in {{count}} minutes",
+    "open-vault": "Open {{ilk}} Vault",
+    "vault-details": "Vault Details",
+    "token-uds-price": "{{token}}/USD price"
+  },
+  "vault-errors": {
+    "deposit-amount-exceeds-collateral-balance": "You cannot deposit more collateral than the amount in your wallet",
+    "deposit-dai-amount-exceeds-dai-balance": "You cannot deposit more Dai than the amount in your wallet",
+    "generate-amount-exceeds-dai-yield-from-depositing-collateral": "The collateralization ratio for this Maker Vault will be too low. Please generate less Dai",
+    "generate-amount-exceeds-dai-yield-from-depositing-collateral-at-next-price": "The collateralization ratio for this Maker Vault will be too low at the next price update. Please generate less Dai",
+    "generate-amount-exceeds-debt-ceiling": "You are trying to generate more than the current debt ceiling allows. The amount of Dai that can be generated is {{maxGenerateAmount}}",
+    "generate-amount-less-than-debt-floor": "This vault type requires a minimum of {{debtFloor}} Dai to be generated. Read more about the Minimum Vault Debt <0>here</0>.",
+    "generate-amount-more-than-max-flash-amount": "This transaction exceeds the maximum flash loan amount of {{maxFlashAmount}}, please lower the multiple, or deposit amount.",
+    "debt-will-be-less-than-debt-floor": "The Maker Vault debt amount either must be 0 or exceed {{debtFloor}} amount of Dai. Please change your payback amount",
+    "custom-allowance-amount-exceeds-maxuint256": "Allowance too large. Please decrease custom allowance amount",
+    "custom-allowance-amount-less-than-deposit-amount": "You need at least an allowance of your deposit amount to continue",
+    "depositing-all-eth-balance": "You need some ETH to pay for the gas fees. Lower your deposit amount",
+    "ledger-enable-contract-data": "Please enable Contract data on the Ledgers Ethereum app Settings",
+    "insufficient-eth-balance": "Your ETH balance is too low to pay for transaction",
+    "exchange-error": "Could not fetch exchange prices for doing this multiply action.",
+    "withdraw-amount-exceeds-free-collateral": "You cannot withdraw more than {{maxWithdrawAmount}} {{token}}",
+    "withdraw-amount-exceeds-free-collateral-at-next-price": "You cannot withdraw more than {{maxWithdrawAmount}} {{token}}",
+    "generate-amount-exceeds-dai-yield-from-total-collateral": "The collateralization ratio for this Maker Vault is too low. Please generate less Dai",
+    "generate-amount-exceeds-dai-yield-from-total-collateral-at-next-price": "The collateralization ratio for this Maker Vault is too low at the next price update. Please generate less Dai",
+    "payback-amount-exceeds-dai-balance": "You cannot payback more Dai than the amount in your wallet",
+    "payback-amount-exceeds-vault-debt": "You are trying to payback more than your Dai debt for this Maker Vault",
+    "custom-collateral-allowance-amount-exceeds-maxuint256": "Allowance too large. Please decrease custom allowance amount",
+    "custom-collateral-allowance-amount-less-than-deposit-amount": "You need at least an allowance of your deposit amount to continue",
+    "custom-dai-allowance-amount-exceeds-maxuint256": "Allowance too large. Please decrease custom allowance amount",
+    "custom-dai-allowance-amount-less-than-payback-amount": "You need at least an allowance of your payback amount to continue",
+    "withdraw-collateral-on-vault-under-debt-floor": "You cannot withdraw from your vault while it is below the minimum required of {{debtFloor}} Dai. To withdraw your collateral, payback your debt fully. Learn more about the Minimum Vault Debt <0>here</0>.",
+    "has-to-deposit-collateral-on-empty-vault": "There is no collateral in this vault. Please first add collateral by choosing 'Manage collateral' option in select.",
+    "deposit-collateral-on-vault-under-debt-floor": "You cannot deposit to your vault while it is below the minimum debt required of {{debtFloor}}. To add more collateral, generate Dai to get above the minimum required. Learn more about the Minimum Vault Debt here <0>here</0>)",
+    "invalid-slippage": "Custom slippage set too high for this transaction, please reduce your slippage setting",
+    "after-coll-ratio-below-stop-loss-ratio": "You cannot make adjustments to your Vault which take it below your Stop-Loss Col. Ratio at current or next collateral price",
+    "after-coll-ratio-below-auto-sell-ratio": "You cannot make adjustments to your vault that would trigger your Auto-Sell at the current or next price. Please adjust your Auto-Sell Trigger ratio first",
+    "after-coll-ratio-below-constant-multiple-sell-ratio": "You cannot make adjustments to your vault that would trigger your Constant-Multiple at the current or next price. Please adjust your Constant-Multiple Sell Trigger ratio first",
+    "after-coll-ratio-above-auto-buy-ratio": "You cannot make adjustments to your vault that would trigger your Auto-Buy at the current or next price. Please adjust your Auto-Buy Trigger ratio first",
+    "after-coll-ratio-above-constant-multiple-buy-ratio": "You cannot make adjustments to your vault that would trigger your Constant-Multiple at the current or next price. Please adjust your Constant-Multiple Buy Trigger ratio first",
+    "vault-will-be-taken-under-min-active-col-ratio": "You cannot make adjustments to your vault which take it below your minimum active coll. ratio at current or next collateral price",
+    "stop-loss-near-liquidation-ratio": "Your Stop-Loss Trigger Col. Ratio would cause closing vault immediately. If this is intended, close your vault",
+    "stop-loss-max-debt": "The Stop-Loss cannot be created due to the high price impact of the order. Your total vault debt has to be less than 20m DAI",
+    "target-coll-ratio-exceeded-dust-limit-coll-ratio": "Your selected parameters would result in your vault hitting the dust limit. Please adjust the parameters in order to continue",
+    "auto-buy-max-price-requred": "Please enter a maximum buy price or select <1>Set No Threshold<1>",
+    "minimum-sell-price-not-provided": "Please enter a minimum sell price or select <1>Set No Threshold<1>",
+    "auto-sell-trigger-higher-than-auto-buy-target": "Setting your an Auto-Sell trigger at this level could result in it being executed by your Auto-Buy. Please adjust your Auto-Buy Target ratio first",
+    "stop-loss-trigger-higher-than-auto-buy-target": "Setting your an Stop-Loss trigger at this level could result in it being executed by your Auto-Buy. Please adjust your Auto-Buy Target ratio first",
+    "auto-buy-trigger-lower-than-auto-sell-target": "Setting your an Auto-Buy trigger at this level could result in it being executed by your Auto-Sell. Please adjust your Auto-Sell Target ratio first",
+    "cant-setup-auto-buy-or-sell-when-constant-multiple-enabled": "You cannot set up an {{autoType}} if you have an existing Constant Multiple set up. Please remove your Constant Multiple before continuing.",
+    "min-sell-price-will-prevent-sell-trigger": "This Min Sell Price will prevent the Sell Trigger from executing",
+    "max-buy-price-will-prevent-buy-trigger": "This Max Buy Price will prevent the Buy Trigger from executing"
+  },
+  "vault-warnings": {
+    "potential-generate-amount-less-than-debt-floor": "Minimum Dai required to open a Vault is {{debtFloor}}. Please add more collateral to generate {{debtFloor}} Dai",
+    "debt-is-less-than-debt-floor": "Your current Dai debt is below the minimum of {{debtFloor}}. Because of this some Vault actions are not possible. Please generate more Dai to take you above the minimum or payback all your debt",
+    "vault-will-be-at-risk-level-danger": "With this action your vault will be at a collateralization ratio very close to the minimum required",
+    "vault-will-be-at-risk-level-danger-at-next-price": "With this action your vault will be at a collateralization ratio very close to the minimum required at the next price update",
+    "vault-will-be-at-risk-level-warning": "With this action your vault will be at a collateralization ratio near the minimum required",
+    "vault-will-be-at-risk-level-warning-at-next-price": "With this action your vault will be at a collateralization ratio near the minimum required at the next price update",
+    "vault-is-currently-under-min-active-col-ratio": "Your vault is currently under the min active collateralization ratio at current or next price.  You can decrease the risk of the position, but not increase it.",
+    "vault-will-remain-under-min-active-col-ratio": "You are decreasing risk of this position, but it will remain under the minimum active col ratio.",
+    "insufficient-eth-balance": "Your ETH balance is potentially too low to pay for this transaction",
+    "coll-ratio-close-to-current": "Your Stop-Loss Trigger Col. Ratio is very close to your current Col. Ratio. Only continue if this is intended and understand your Vault could be closed with a small price change.",
+    "no-min-sell-price-when-stop-loss-enabled": "Not setting a Min. Sell Price with Stop-Loss enabled would cause your Stop-Loss to never be triggered",
+    "auto-buy-with-no-max-price-threshold": "WARNING: You are setting an auto buy trigger with no maximum buy price threshold",
+    "auto-sell-trigger-close-to-stop-loss-trigger": "Setting a lower Trigger Ratio would trigger your existing Stop-Loss. If you want to use a lower trigger ratio, please adjust your Stop-Loss trigger first.",
+    "auto-sell-target-close-to-auto-buy-trigger": "Setting a higher Target Ratio would trigger your existing Auto-Buy. If you want to use a higher trigger ratio, please adjust your Auto-Buy trigger first.",
+    "stop-loss-trigger-close-to-auto-sell-trigger": "Setting a higher Trigger Ratio would trigger your existing Auto-Sell. If you want to use a higher trigger ratio, please adjust your Auto-Sell trigger first.",
+    "auto-buy-target-close-to-stop-loss-trigger": "Setting a lower Target Ratio would trigger your existing Stop-Loss. If you want to use a lower target ratio, please adjust your Stop-Loss trigger first.",
+    "auto-buy-target-close-to-auto-sell-trigger": "Setting a lower Target Ratio would trigger your existing Auto-Sell. If you want to use a lower target ratio, please adjust your Auto-Sell trigger first.",
+    "auto-buy-triggered-immediately": "Setting your trigger ratio at this level will cause your Auto-Buy to execute immediately. If this not your intention, please increase your trigger ratio",
+    "auto-sell-triggered-immediately": "Setting your trigger ratio at this level will cause your Auto-Sell to execute immediately. If this not your intention, please decrease your trigger ratio",
+    "auto-sell-override": "Auto-Sell has been updated to override your Max gas fee if required to prevent vault liquidation. To make use of this protection, please remove your Auto-sell and create a new one. You are eligible for a gas cost refund, please contact <0>support@zin.app</0>",
+    "constant-multiple-sell-trigger-close-to-stop-loss-trigger": "Setting a lower Trigger Ratio would trigger your existing Stop-Loss. If you want to use a lower trigger ratio, please adjust your Stop-Loss trigger first",
+    "stop-loss-trigger-close-to-constant-multiple-sell-trigger": "Setting a higher Trigger Ratio would trigger your existing Constant-Multiple. If you want to use a higher trigger ratio, please adjust your Constant-Multiple Sell trigger first.",
+    "adding-constant-multiple-when-auto-sell-or-buy-enabled": "Creating a Constant multiple will remove your existing {{enabledTriggers}}. Are you sure you want to continue?",
+    "constant-multiple-auto-sell-triggered-immediately": "Setting your Sell Trigger at this ratio would result in it being executed immediately",
+    "constant-multiple-auto-buy-triggered-immediately": "Setting your Buy Trigger at this ratio would result in it being executed immediately"
+  },
+  "vault-info-messages": {
+    "earn-overview": "This {{token}} position is earning trading fees in Uniswap V3. The supplied DAI is multiplied by using the Maker protocol, giving the user a bigger exposure to the Uniswap pool. Currently the only actions you can take is to <1>close this Vault</1>.",
+    "closing": "To close your vault, a part of your position will be sold to payback the outstanding debt. The rest of your collateral will be sent to your address."
+  },
+  "vault-changes": {
+    "order-information": "Order information",
+    "multiply": "Multiply",
+    "close-vault-information": "Close Vault Information",
+    "getting-token": "Getting {{token}}",
+    "buying-token": "Buying {{token}}",
+    "selling-token": "Selling {{token}}",
+    "price-impact": "{{token}} Price (impact)",
+    "slippage-limit": "Slippage Limit",
+    "third-party-fees": "3rd party protocol fees",
+    "oasis-fee": "Zin fee"
+  },
+  "vault-actions": {
+    "deposit": "Deposit",
+    "generate": "Generate",
+    "payback": "Payback",
+    "withdraw": "Withdraw"
+  },
+  "vault-changed": "Vault changed!",
+  "vault-history": "Vault History",
+  "vault-information": "Vault Information",
+  "vaults": {
+    "after": "After ${{price}}",
+    "current-price": "Current {{token}}/USD price",
+    "ilk-does-not-exist": "Ilk {{ilk}} does not exist",
+    "next-price": "Next {{token}}/USD price: {{amount}}"
+  },
+  "ilks-list": {
+    "headers": {
+      "noVaults": "Select a collateral type to create a Maker Vault and borrow Dai or buy additional collateral.",
+      "withVaults": "Open a new Maker Vault.<0/> Borrow Dai or buy additional collateral."
+    }
+  },
+  "vaults-overview": {
+    "banner-content": "You can view your vaults",
+    "banner-header": "You are viewing {{address}} Vaults overview",
+    "headers": {
+      "connected-owner-noVaults": "You have no open Vaults",
+      "connected-owner-withVaults": "Your Vaults",
+      "connected-viewer-noVaults": "{{address}} currently has no Maker Vaults",
+      "connected-viewer-withVaults": "Maker Vaults overview of {{address}}",
+      "notConnected-noVaults": "{{address}} currently has no Maker Vaults.<0/> Connect your wallet and open a vault.",
+      "notConnected-withVaults": "Maker Vaults overview of {{address}}.<0/> Connect your wallet.",
+      "vault-suggestions": "{{address}}, do more on zin.app"
+    },
+    "number-of-vaults": "No. of Vaults",
+    "subheader-no-vaults": "Open a Maker Vault, deposit your collateral, and borrow Dai or buy additional collateral against it.",
+    "subheader-vault-suggestions": "Lorem ipsum dolor sit amet, consectetur, adipiscing elit. Ut fringilla dictum nibh etc aliquam dolor sit amet.",
+    "total-debt": "Total debt",
+    "total-locked": "Total locked",
+    "vaults": "Vaults",
+    "vaults-at-risk": "Vaults at risk",
+    "your-vaults": "Your Vaults",
+    "assets-and-positions": "Top {{number}} assets and positions",
+    "total-assets": "Total Assets",
+    "total-assets-subheader": "Calculated using the <0>Zin curated token list →</0>"
+  },
+  "vault-notices": {
+    "ownership": {
+      "header": "You are viewing {{address}} Vault",
+      "subheader1": "Please connect your wallet to open, manage or view your Vaults.",
+      "subheader2": "You can view your vaults"
+    },
+    "liquidating": {
+      "header1": "Your {{ collateral }} Maker Vault {{ id }} is about to get liquidated.",
+      "header2": "{{ collateral }} Maker Vault {{ id }} is about to get liquidated.",
+      "subheader1": "The next price update of {{ collateral }} will cause a liquidation on this Maker Vault unless collateral is added, or Dai is paid back.",
+      "subheader2": "Is this your Maker Vault? Please connect with address: {{ address }} and save your Maker Vault from liquidation.",
+      "subheader3": "This Vault is now available for liquidation and can be liquidated at anytime."
+    },
+    "liquidated": {
+      "header1": "Your Maker Vault got liquidated",
+      "header2": "This Maker Vault got liquidated",
+      "subheader1": "This Maker Vault has been liquidated. A portion of your collateral has been auctioned to pay back your Dai debt.",
+      "subheader2": "You can reclaim {{ amount }} {{ collateral }}",
+      "subheader3": "This Maker Vault has been liquidated. A portion of collateral has been auctioned to pay back the Dai debt.",
+      "subheader4": "If this is your vault, connect with address: {{ address }} to reclaim the remaining collateral."
+    }
+  },
+  "vault-banners": {
+    "setup-stop-loss": {
+      "header": "Protect against unnecessary losses",
+      "content": "Reduce the risk of ruin with automated Stop-Loss. Cap your downside with the option to close to either Dai or {{token}} at your desired Price or Collateral level. Find out more about how it works",
+      "button": "Setup Stop-Loss"
+    },
+    "get-protection": {
+      "header": "Get vault protection",
+      "content": "Set up Stop-Loss protection or an Auto-Sell to protect your vault from liquidation if it drops below your chosen collateralization ratio.",
+      "button": "Protect your Vault"
+    },
+    "what-are-the-risks": {
+      "header": "What are the risks",
+      "content": "Find out about the underlying creation of the position, the risks, where your capital is at and more in the FAQ section.",
+      "button": "Learn more"
+    }
+  },
+  "view": "View",
+  "view-more": "View more",
+  "view-on-etherscan": "View on Etherscan",
+  "view-on-ethtx": "View on Ethtx",
+  "waiting-approval": "Waiting for approval",
+  "waiting-confirmation": "Waiting for transaction confirmation",
+  "proxy-deployment-confirming": "{{proxyConfirmations}} of {{safeConfirmations}}: Proxy deployment confirmed",
+  "open-vault-deployment-confirming": "Vault created. Waiting for confirmations {{openVaultConfirmations}}/{{safeConfirmations}}",
+  "set-up-stop-loss-tx": "Set up Stop-Loss transaction",
+  "open-vault-two-tx-setup-requirement": "You will be required to sign 2 transactions. 1 to setup the the Vault and another to set up the Stop-Loss.",
+  "open-vault-two-tx-first-step-title": "Step 1/2: Vault being created",
+  "open-vault-two-tx-second-step-title": "Step 2/2: Stop-Loss setup transaction",
+  "open-vault-sl-second-status-title": "Transaction 2 of 2 (Stop-Loss setup)",
+  "open-vault-sl-second-status-not-started-desc": "Transaction will start once 1/2 is completed",
+  "not-started": "not started",
+  "in-progress": "in progress",
+  "vault-creation-confirmed": "Vault creation confirmed",
+  "withdraw": "Withdraw",
+  "withdrawn": "Withdrawn",
+  "you-are-sending": "You are sending",
+  "your-vaults": "Your Vaults",
+  "my-positions": "My Positions",
+  "no-results": "No results",
+  "learn-about-wallets": "Learn more about wallets",
+  "learn-more-at-oasis": "Learn more at zin.app Knowledge Base",
+  "learn-more-link": "https://ethereum.org/en/wallets/find-wallet/",
+  "enter-an-amount": "Enter an amount",
+  "enter-allowance-amount": "Enter allowance amount",
+  "set-token-allowance": "Set {{token}} allowance",
+  "invalid-allowance-amount": "Invalid allowance amount",
+  "vault-form": {
+    "header": {
+      "edit": "Configure your Vault",
+      "editWithToken": "Configure your {{token}} Vault",
+      "proxy": "Create your smart Proxy",
+      "proxyDisabled": "Proxy creation temporally disabled",
+      "proxy-in-progress": "Smart proxy being created",
+      "proxy-success": "Smart Proxy successfully created",
+      "allowance": "Set {{token}} allowance",
+      "daiAllowance": "Set DAI allowance",
+      "confirm": "Confirm vault creation",
+      "confirm-in-progress": "Vault being created",
+      "modified": "Vault is being modified",
+      "manage": "Manage your vault",
+      "confirm-manage": "Confirm vault changes",
+      "review-manage": "Review vault changes",
+      "multiply-transition": "Multiply your exposure on {{token}} in your vault",
+      "go-to-multiply": "Great, now you will go to the new Multiply interface",
+      "success": "All done! You now have a vault",
+      "success-manage": "All done! Your vault has been updated"
+    },
+    "subtext": {
+      "collateral": "Deposit or withdraw from your Vault. Save gas by combining transactions.",
+      "dai": "Generate DAI from the collateral in your vault, or payback DAI. Save gas by combining transactions.",
+      "edit": "Simulate your vault by configuring the amount of collateral to deposit, and DAI to generate.",
+      "edit-multiply": "Simulate your vault by configuring the amount of collateral to deposit, and slide your multiply factor.",
+      "edit-multiply-dai": "This vault can be created by simply <1>depositing DAI</1>. The transaction will create the {{token}} position for you based on this DAI deposit.",
+      "proxy": "With your smart proxy multiple actions can be performed in one transaction for your Vault. This proxy only needs to be set up once. Read more in the <1><2>Knowledge Base</2></1>",
+      "proxy-start": "With your smart proxy multiple actions can be performed in one transaction for your Vault. This proxy only needs to be set up once. Read more in the <1>Knowledge Base</1>.",
+      "proxy-success": "Your smart Proxy has been successfully set up. Read more in the <1>Knowledge Base →</1>",
+      "proxy-progress": "Read more on smart proxy in the <1>Knowledge Base</1>.",
+      "allowance": "Specify an allowance to set a maximum on the amount of tokens the vault contracts can interact with.",
+      "daiAllowance": "Specify an allowance to set a maximum on the amount of tokens the vault contracts can interact with.",
+      "confirm": "This will update your vault to a multiply vault. It does not require a transaction. You will be able to switch it back to the Borrow view.",
+      "review-manage": "Here you can review the details of the changes to your vault.",
+      "confirm-in-progress": "Your Vault is currently being created.",
+      "modified": "Your Vault is currently being updated. Please wait.",
+      "new-proxy-temporally-disabled": "Proxy creation is temporary disabled around the merge, to prevent unexpected behavior from re-orgs. See our <1>blog</1> for more info."
+    }
+  },
+  "creating-your-vault": "Creating your {{token}} Vault!",
+  "creating-your-vault-multiply": "Creating your {{token}} Multiply Vault!",
+  "vault-created": "Vault #{{id}} created!",
+  "changing-vault": "Changing Vault",
+  "changing-vault-multiply": "Changing Multiply Vault",
+  "adjusting-vault-multiply": "Multiplying your Vault in progress",
+  "closing-vault-multiply": "Closing your Multiply Vault",
+  "your-wallet": "Your wallet",
+  "welcome": "Welcome to the new Zin.app.",
+  "wallet": "Wallet",
+  "read-blog-post": "Read the blog post",
+  "visit-old-oasis": "Visit the old Zin",
+  "oracles": {
+    "header": "Oracles",
+    "description": "Below the current and next prices of the collateral types that are accepted for Maker vaults can be viewed. Most use the Oracle Stability Module (OSM). This module updates the price just once every hour. Therefore, when a crash is happening, users still have an hour to react to the new price.",
+    "token": "Token",
+    "current-price": "Current Price",
+    "next-price": "Next Price",
+    "change": "% Change",
+    "last-update": "Last Update",
+    "next-update": "Next Update",
+    "oracle-type": "Oracle Type"
+  },
+  "select-vault-type": {
+    "header": "What do you want to do with your {{token}}?",
+    "multiply": {
+      "header": "Multiply my {{token}}",
+      "subtext": "Create a Multiply position and get up to {{exposureMultiplier}}x exposure on your {{token}}",
+      "button": "Multiply {{token}}"
+    },
+    "borrow": {
+      "header": "Borrow against my {{token}}",
+      "subtext": "Borrow up to {{maxBorrow}} DAI for every $100,000 worth of {{token}}",
+      "button": "Borrow against {{token}}"
+    }
+  },
+  "setup": "Setup",
+  "protection": {
+    "stop-loss-protection": "Stop-Loss Protection",
+    "navigate-cancel": "Cancel downside protection",
+    "navigate-adjust": "Return to adjusting Stop-Loss",
+    "set-downside-protection": "Set up Stop-Loss Protection",
+    "set-downside-protection-desc": "Set the Collateralisation Ratio trigger at the point which you want your Vault to be closed at automatically. Learn more about how Stop-Loss works",
+    "cancel-downside-protection": "Cancellation confirmation",
+    "cancel-downside-protection-desc": "To cancel the Stop-Loss you’ll need to click the button below and confirm the transaction.",
+    "setting-downside-protection": "Setting Stop-Loss Protection",
+    "setting-auto-sell": "Setting up your Auto-Sell",
+    "cancelling-auto-sell": "Cancelling your Auto-Sell",
+    "cancelling-downside-protection": "Cancelling Stop-Loss",
+    "setting-downside-protection-desc": "Your Vault is currently being updated to add Stop-Loss Protection. Your Vault will not be protected from Liquidation until this completes.",
+    "cancelling-downside-protection-desc": "The Stop-Loss cancellation is in progress. Once the transaction is done, the Stop-Loss will be removed.",
+    "position-again-at-risk": "Your position is then at risk of liquidation again once the liquidation price is hit.",
+    "downside-protection-complete": "Stop-Loss Protection Enabled",
+    "cancel-protection-complete": "Stop-Loss cancellation complete",
+    "downside-protection-updated": "Stop-Loss Protection Updated",
+    "downside-protection-complete-desc": "You have successfully setup Stop-Loss Protection on your Vault. Find out more about how Stop-Loss works",
+    "cancel-protection-complete-desc": "Stop-Loss has been cancelled successfully. You can always set up it again to protect your vault. Your position is now again at risk of liquidation once the liquidation price is hit.",
+    "banner-header": "Get Vault Protection with Stop-Loss",
+    "banner-content": "Setup a dynamic Stop-Loss based on your Collateralisation Ratio to help protect your Vault from liquidation or the worry of big losses.",
+    "banner-button": "Set up Vault Protection ->",
+    "edit-vault-protection": "Edit Vault Protection",
+    "dynamic-stop-loss-price": "Dynamic Stop-Loss Price",
+    "dynamic-stop-loss": "Dynamic Stop-Loss",
+    "stop-loss-coll-ratio": "Stop-Loss Collateral Ratio",
+    "total-cost": "Total transaction cost",
+    "max-cost": "Max transaction cost",
+    "token-on-stop-loss-trigger": "{{token}} on Stop-Loss trigger",
+    "zero-debt-heading": "You need to Generate DAI before you can set up Automated Protection",
+    "zero-debt-description": "zin.app Automated Protection allows you to set up a dynamic Stop-Loss or Auto-Sell Strategy on your vault based on the collateralization ratio. This can protect your vault from liquidation or reduce your exposure to the collateral asset in the case of a sharp downturn in price. Learn more about how it works",
+    "below-dust-limit-heading": "You need to generate Dai above the minimum debt limit to set up Stop-Loss Protection",
+    "summary-of-protection": "Summary of protection",
+    "on-stop-loss-trigger": "On Stop-Loss trigger",
+    "estimated-to-receive": "Estimated to receive",
+    "saving-comp-to-liquidation": "Saving compared to liquidation",
+    "estimated-fees-on-trigger": "Estimated fees on trigger",
+    "up-to": "up to",
+    "not-guaranteed": "Automation isn't guaranteed to work 100% of the time",
+    "guarantee-factors": "Several factor can relate to its success. These include liquidity, volatility and gas.",
+    "learn-more-about-automation": "Learn more about automation and how Zin is building the best automation product on Ethereum →",
+    "automation-fact": "{{success}} of {{total}} Vaults using Automation have successfully been saved the last 90 days",
+    "modal-description": "You have the Stop-Loss protection enabled. Click on the banner below to see more details.",
+    "your-stop-loss-triggered": "Your Stop-Loss was triggered",
+    "your-stop-loss-triggered-desc": "See below for a summary of what happened to the Vault.",
+    "stop-loss-summary": "Stop-Loss summary",
+    "token-sold": "{{token}} sold",
+    "token-or-dai-withdrawn": "{{token}} / DAI withdrawn",
+    "reopen-position": "Reopen position",
+    "stop-loss-triggered": "Stop-Loss triggered",
+    "stop-loss-triggered-desc": "Your Stop-Loss was triggered on your Vault",
+    "stop-loss-triggered-content": "Your stop loss was triggered on your Vault. You can read the fully summary of the Stop Loss event on the right.",
+    "cancel-notice": "Cancelling your Stop-Loss means you will no longer have protection in place and you will need to actively monitor your Collateralisation Ratio.",
+    "find-more-about-setting-stop-loss": "Find out more about setting Stop-Loss →",
+    "set-stop-loss-again": "Set up Stop-Loss again",
+    "sl-triggered-gas-estimation": "This fee represents the expected Gas Cost based on the current price of ETH and an assumed Gas Price of 200 GWEI.",
+    "stop-loss-on": "Stop-Loss On",
+    "coll-ratio-close-to-current": "Your Stop-Loss Trigger Col. Ratio is very close to your current Col. Ratio. Only continue if this is intended and understand your Vault could be closed with a small price change.",
+    "closed-vault-existing-sl-header": "Your vault is closed but stop-loss is still active",
+    "closed-vault-existing-sl-description": "You can cancel your existing stop-loss here or deposit into your vault in overview tab",
+    "edit-stop-loss": "Edit Stop-Loss",
+    "enable-stop-loss": "Enable Stop-Loss",
+    "continue-without-stop-loss": "Continue without Stop-Loss",
+    "stop-loss-information": "Stop-Loss Information",
+    "no-threshold": "No threshold set",
+    "set-no-threshold": "Set No Threshold",
+    "set-threshold": "Set Threshold",
+    "unable-to-access-protection": "Unable to access Protection",
+    "closed-vault-not-existing-trigger-header": "You need to generate Dai before you can set up Stop-Loss",
+    "closed-vault-not-existing-trigger-description": "To enable Stop-Loss you need to generate Dai in overview tab",
+    "adding-new-triggers-disabled-description": "Due to extreme adversarial market conditions we have currently disabled setting up NEW Stop-Loss triggers, as they might not result in the expected outcome for our users. Please use the 'close vault' option if you want to close your vault right now."
+  },
+  "newsletter": {
+    "title": "Stay up to date with zin.app",
+    "subtitle": "Subscribe to the newsletter for Zin updates",
+    "placeholder": "Email Address",
+    "button": "Subscribe",
+    "success": "Thank you for subscribing the newsletter!",
+    "gdpr": "By entering your email address, you acknowledge that Oazo Apps Limited will collect and process your personal data for marketing purposes (e.g. newsletter, updates). For more information please refer to our <1>Privacy Policy.</1>",
+    "errors": {
+      "unknown": "Something went wrong. Please try again.",
+      "email-is-invalid": "Please enter a valid email address",
+      "email-already-exists": "Email is already subscribed to mailing list.",
+      "email-pending": "Opt-in email already sent for this address - please check your inbox."
+    }
+  },
+  "user-settings": {
+    "button-menu": "Slippage",
+    "slippage-limit": {
+      "preset-title": "Slippage settings",
+      "preset-description": "Select the amount of slippage you would like.",
+      "read-more": "Read more about slippage.",
+      "custom-title": "Set custom slippage amount",
+      "custom-label": "Slippage amount",
+      "errors": {
+        "invalid-slippage": "Invalid slippage. Slippage should be in 20%, 0.1% range"
+      },
+      "warnings": {
+        "high-slippage": "Warning. You have set a high slippage limit which can result in you getting a price quite far from your quoted price. Only continue if you understand this risk."
+      }
+    },
+    "button": "Update settings",
+    "button-in-progress": "Updating settings",
+    "update-success": "Settings updated",
+    "update-failure": "Something went wrong"
+  },
+  "modal-trezor-eip1559-title": "Trezor with Metamask does not support EIP-1559",
+  "modal-trezor-eip1559-paragraph1": "zin.app has recently updated all transactions to support EIP-1559. Doing EIP-1559 transactions with Trezor through metamask is currently not supported, see <0>here</0>.",
+  "modal-trezor-eip1559-paragraph2": "You can continue to use Metamask with Trezor with legacy transactions on our environment here: <0>legacy.oasis.app</0>.",
+  "modal-trezor-eip1559-paragraph3": "Alternatively, if you have a Model T Trezor you can <0>connect</0> directly to zin.app.",
+  "product-card": {
+    "borrow": "A Vault designed for borrowing against {{token}}",
+    "multiply": "A Vault designed to multiply your exposure to {{token}}",
+    "borrow-and-multiply": "A vault for both multiplying your exposure or borrowing against {{token}}",
+    "lp-tokens": "A vault for multiplying your exposure to {{token}}",
+    "medium-exposure-medium-cost": "Medium exposure, medium cost. Great for Borrowing or Multiplying",
+    "biggest-multiply": "The biggest possible Multiple to maximize your exposure to {{token}}",
+    "lowest-stabilityFee-and-cheapest": "The lowest Stability Fee and cheapest Vault for borrowing using {{token}}",
+    "lowest-annual-fee-cheapest-vault": "The lowest Annual Fee and cheapest Vault for borrowing using staked ETH",
+    "staking-rewards": "Great for Borrowing or Multiplying while earning staking rewards",
+    "great-borrowing-and-multiplying": "Great for Borrowing or Multiplying your {{token}}",
+    "guni": {
+      "GUNIV3DAIUSDC2-A": "Earn on your Dai with exposure to the DAI/USDC 1bps pool on UNI V3",
+      "GUNIV3DAIUSDC1-A": "Earn on your Dai with exposure to the DAI/USDC 5bps pool on UNI V3"
+    },
+    "aave": {
+      "AAVE-STETH": {
+        "title": "stETH/ETH AAVE",
+        "description": "Earn on your ETH with increased staking rewards. Borrow ETH on AAVE to get more exposure to stETH."
+      }
+    },
+    "tags": {
+      "lowest-fees-for-borrowing": "Lowest fees for Borrowing",
+      "staking-rewards": "Staking rewards",
+      "max-exposure": "Max {{token}} exposure"
+    },
+    "unprofitable-position": "This position is currently likely unprofitable. Proceed if you know what you are doing."
+  },
+  "product-card-banner": {
+    "with": "With {{value}} {{token}} \uD83D\uDC47",
+    "borrow": "Borrow up to {{value}} DAI",
+    "multiply": "Get up to {{value}} {{token}} exposure",
+    "earn": "Earn {{value}} {{token}} a year",
+    "guni": {
+      "GUNIV3DAIUSDC2-A": "Get up to {{value}} exposure to the DAI/USDC UNI V3 1bps pool",
+      "GUNIV3DAIUSDC1-A": "Get up to {{value}} exposure to the DAI/USDC UNI V3 5bps pool"
+    },
+    "aave": {
+      "AAVE-STETH": "Get up to {{value}} ETH exposure to stETH"
+    }
+  },
+  "product-card-title": {
+    "ETH-A": "ETH with medium cost and multiple",
+    "ETH-B": "Highest ETH multiple option",
+    "ETH-C": "Lowest ETH borrowing cost",
+    "WBTC-A": "wBTC with medium cost and multiple",
+    "WBTC-B": "Highest wBTC multiple option",
+    "WBTC-C": "Lowest wBTC borrowing cost",
+    "RENBTC-A": "Ren Bitcoin (RenBTC)",
+    "WSTETH-A": "StETH with medium cost and multiple",
+    "WSTETH-B": "Lowest stETH borrowing cost",
+    "UNI-A": "Uniswap (UNI)",
+    "MANA-A": "Decentraland (MANA)",
+    "MATIC-A": "Polygon (MATIC)",
+    "YFI-A": "Yearn (YFI)",
+    "LINK-A": "Chainlink (LINK)",
+    "GUSD-A": "Gemini USD (GUSD)",
+    "GUNIV3DAIUSDC2-A": "50x UNI V3 DAI / USDC 0.01% tier",
+    "GUNIV3DAIUSDC1-A": "50x UNI V3 DAI / USDC 0.05% tier",
+    "UNIV2DAIUSDC-A": "UNI V2 DAI / USDC LP",
+    "UNIV2USDCETH-A": "UNI V2 USDC / ETH LP",
+    "CRVV1ETHSTETH-A": "CRV V1 ETH / Staked ETH LP"
+  },
+  "product-page": {
+    "multiply": {
+      "title": "Zin Multiply",
+      "description": "Multiply your exposure to your favorite crypto assets. Browse our featured products or select a asset.",
+      "link": "Learn more about Multiply ->"
+    },
+    "borrow": {
+      "title": "Zin Borrow",
+      "description": "Borrow Dai against your favorite crypto assets. Use the Dai however you like. Browse the featured, or select an asset to view our products.",
+      "link": "Learn more about Borrow ->"
+    },
+    "earn": {
+      "title": "Zin Earn",
+      "description": "Put your crypto assets to work today. Start generating the best yields. Select your Earn product below.",
+      "link": "Learn more about Earn ->"
+    }
+  },
+  "learn-more-about": "Learn more about",
+  "assets": {
+    "eth": {
+      "description": "ETH facilitates operations on the Ethereum network. It is used by network participants to execute their requested operations on it. We can think about it as the \"fuel\" of the network. You can maximize your ETH utility by Multiplying your exposure or Borrowing against your ETH.",
+      "link": "https://ethereum.org/en/eth/"
+    },
+    "btc": {
+      "description": "Bitcoin itself cannot be used directly, but needs to be moved onto the Ethereum Blockchain to use it in DeFi. Both wrapped Bitcoin (wbtc) and renBTC deliver the power of Bitcoin with the flexibility of an ERC20 token. Get the most of your Bitcoin Multiplying your exposure or Borrowing.",
+      "link": "https://wbtc.network/"
+    },
+    "usdc": {
+      "description": "USDC is a 1:1 USD-backed centralized stablecoin, fully regulated. USDC is natively supported on multiple layer 1 blockchains including Ethereum as an ERC-20 token, Algorand as an ASA token, Solana as a SPL token, TRON as an TRC-20 token, and Stellar as a native asset. It is operated by Circle.",
+      "link": "https://www.circle.com/en/about-circle"
+    },
+    "lp-token": {
+      "description": "Tokens deposited into a liquidity pool, automatically generates a new token that represents the share the depositor owns of that pool. This is called a liquidity provider (LP) token, and it can be used to borrow against. This has the effect of multiplying your liquidity share in the pool.",
+      "link": "https://docs.uniswap.org/protocol/V2/guides/smart-contract-integration/providing-liquidity"
+    },
+    "yfi": {
+      "description": "Yearn.finance (YFI) is the governance token of the Yearn.finance platform. The platform is a yield optimizer that moves funds around the decentralized finance ecosystem in an effort to generate a high return. Multiply your exposure to YFI, or borrow against it.",
+      "link": "https://yearn.finance/"
+    },
+    "dai": {
+      "description": "Dai is the largest overcollateralized decentralized stablecoin. Dai can be generated on zin.app using various collateral types. Here we show the products that will net you returns in DAI.",
+      "link": "https://kb.oasis.app/help/what-is-dai"
+    },
+    "uni": {
+      "description": "UNI is the governance token of Uniswap Protocol, which is governed by a decentralized community who propose and vote on upgrades to the protocol. Uniswap is a decentralized trading protocol for swapping ERC20 tokens.",
+      "link": "https://uniswap.org/"
+    },
+    "link": {
+      "description": "Loopring is an Ethereum token that describes itself as “an open-sourced, audited, and non-custodial exchange protocol.” It aims to allow anyone to build non-custodial, order book-based exchanges on Ethereum by leveraging zero-knowledge proofs.",
+      "link": "https://loopring.org/#/"
+    },
+    "matic": {
+      "description": "Polygon (MATIC) is an Ethereum token that powers the Polygon Network, a scaling solution for Ethereum. Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.",
+      "link": "https://polygon.technology/"
+    },
+    "mana": {
+      "description": "MANA is the ERC-20 token built for Decentraland, a virtual reality platform powered by the ethereum blockchain. It is primarily used to buy goods, services and LAND (an NFT token) within Decentraland.",
+      "link": "https://decentraland.org/"
+    }
+  },
+  "guni-slippage-overridden": "Your custom slippage has been overridden for this vault. GUNI vaults can only be opened with a slippage at 0.1%.",
+  "temporary-guni-message": "The max multiple for your GUNI position has been increased by Maker governance from 20x to 50x. To take advantage of this you will need to close this vault, and open a new GUNI position. Read more in ",
+  "below": "below",
+  "above": "above",
+  "earn": {
+    "your-positions": "Positions",
+    "positions-of-type": "{{type}} Positions",
+    "edit-vault": "Edit Vault",
+    "view-vault": "View Vault",
+    "automation-button-on": "On",
+    "automation-button-off": "Activate",
+    "automation-button-off-disabled": "No protection",
+    "position-headers": {
+      "asset": {
+        "label": "Asset",
+        "tooltip": "The identifier of the position asset type, uses the protocols naming conventions."
+      },
+      "position-id": {
+        "label": "Position ID",
+        "tooltip": "The Position ID is used to reference the position across zin.app"
+      },
+      "collateral-ratio": {
+        "label": "Collateral Ratio",
+        "tooltip": "The value of the collateral in comparison to the amount of debt. Needs to be above the minimum required to avoid liquidation."
+      },
+      "dai-debt": {
+        "label": "Dai Debt",
+        "tooltip": "The amount of dai debt in this position"
+      },
+      "collateral-locked": {
+        "label": "Collateral Locked",
+        "tooltip": "The amount of collateral in this position"
+      },
+      "variable-perc": {
+        "label": "Variable %",
+        "tooltip": "The variable annual rate paid over the debt in this position. This can be changed by the governance body of the protocol."
+      },
+      "protection": {
+        "label": "Protection",
+        "tooltip": "Indicates if a Stop-Loss Protection has been set up for this position. If not, you can activate it on the Protection page by clicking the button."
+      },
+      "net-value": {
+        "label": "Net Value",
+        "tooltip": "The current net value of the position based on the oracle price of the collateral in the position minus the debt."
+      },
+      "multiple": {
+        "label": "Multiple",
+        "tooltip": "The current multiple of the position. Indicating the extra exposure on the underlying collateral in comparison to holding the collateral without a multiply position."
+      },
+      "liquidation-price": {
+        "label": "Liquidation Price",
+        "tooltip": "The price of the collateral at which this position becomes vulnerable to liquidation."
+      },
+      "funding-cost": {
+        "label": "Funding Cost",
+        "tooltip": "The cost in percentage of the net value of your multiply position if you were to keep it open for 1 year, without a change in collateral prices. The formula for it is: Dai Debt / Net Value * Variable annual fee."
+      },
+      "pnl": {
+        "label": "PnL",
+        "tooltip": "The current profit or loss percentage of your position, including incurred gas costs. For a more detailed look on the profit and loss, please check the position."
+      },
+      "seven-day-yield": {
+        "label": "7 Day Yield",
+        "tooltip": "The 7 day yield is the average returns of the past 7 days, annualized, and subtracts any variable rates that need to be paid."
+      },
+      "liquidity": {
+        "label": "Liquidity",
+        "tooltip": "The current available liquidity allowing increases of positions."
+      }
+    }
+  },
+  "claim-rewards": {
+    "title": "{{ bonusTokenName }} position rewards",
+    "for-this-position": "For this position you are currently earning {{ name }} rewards.",
+    "instructions": {
+      "tokens-to-claim": "Press the button to claim {{ readableAmount }}.",
+      "claim-succeeded": "You have claimed {{ readableAmount }}. It may take a few minutes for your position to update.",
+      "nothing-to-claim": "You currently have no {{ name }} rewards to claim."
+    },
+    "more-info": {
+      "text1": "More information about these rewards",
+      "link-text": "here",
+      "text2": "."
+    },
+    "claim-button": {
+      "claim-rewards": "Claim Rewards"
+    }
+  },
+  "help-shape-the-future-of-multiply": "Help shape the future of Multiply",
+  "simulate-faq": {
+    "contents": "Contents",
+    "learn-more-heading": "Want to know more?",
+    "learn-more-body": "You can visit our <0>knowledge base</0> page to have a deep dive into this strategy. Or ask more questions to our community on <1>Discord →</1>"
+  },
+  "automation-creation": {
+    "add-content": "Your vault is currently being updated to add your {{featureName}}. {{featureName}} will not be active until this completes.",
+    "remove-content": "Your {{featureName}} cancellation is in progress. Once the transaction is complete. Your {{featureName}} trigger will be removed.",
+    "add-complete-content": "You have successfully set up an {{featureName}} on your vault. Find out more about how this works",
+    "remove-complete-content": "Your {{featureName}} has been successfully cancelled."
+  },
+  "basic-buy-sell-generic": {
+    "max-gas-fee-trans-value": "Max Gas Fee",
+    "max-gas-fee-trans-subheading": "Select the maximum gas fee you are willing to spend in Gwei per transaction."
+  },
+  "auto-sell": {
+    "sell-title": "Basic Auto-Sell Summary",
+    "cancel-summary-title": "Cancel Auto-Sell order summary",
+    "cancel-summary-description": "To cancel the Auto-Sell you'll need to click the button below and confirm the transaction.",
+    "target-col-ratio-each-sell": "Target Col. Ratio after each sell",
+    "target-multiple-each-sell": "Target Multiple after each sell",
+    "trigger-col-ratio-to-perfrom-sell": "Trigger Col. Ratio to perfrom each automated sell",
+    "next-sell-prices": "Next sell price(s)",
+    "setup-transaction-cost": "Setup transaction cost",
+    "slippage-limit": "Slippage Limit",
+    "collateral-after-next-sell": "Collateral after next sell",
+    "outstanding-debt-after-next-sell": "Outstanding Debt after next sell",
+    "col-to-be-sold": "{{token}} to be sold at next sell",
+    "estimated-transaction-cost": "Estimated transaction cost",
+    "target-ratio-with-deviation": "Target ratio with deviation",
+    "title": "Auto-Sell",
+    "add-form-title": "Auto-Sell Setup",
+    "edit-form-title": "Edit Auto-Sell",
+    "setting-form-title": "Setting Auto-Sell",
+    "cancelling-form-title": "Cancelling Auto-Sell",
+    "cancel-form-title": "Cancellation confirmation",
+    "trigger-added": "Auto-Sell Protection Enabled",
+    "trigger-cancelled": "Auto-Sell cancellation completed",
+    "trigger-updated": "Auto-Sell Protection Updated",
+    "next-sell-price": "Next sell price: {{amount}}",
+    "continual-sell-threshold": "Recurring sell order down to {{amount}}/{{token}}",
+    "continual-sell-no-threshold": "Recurring sell order with no min",
+    "target-col-ratio-after-selling": "Target Col. Ratio after selling",
+    "trigger-col-ratio-to-sell-token": "Trigger Col. Ratio to sell {{token}}",
+    "sell-trigger-ratio": "Sell Trigger Ratio",
+    "target-coll-ratio": "Sell Target Ratio",
+    "set-min-sell-price": "Set Min Sell Price",
+    "set-trigger-description": "You are creating a recurring sell action to trigger at a collateralization ratio of {{execCollRatio}}%, increasing it to your Target Ratio of {{targetCollRatio}}%. Initially it will execute with at ${{executionPrice}}/{{token}}, with a min sell price of ${{minSellPrice}}/{{token}}. Learn More ",
+    "set-trigger-description-no-threshold": "You are creating a recurring sell action to trigger at a collateralization ratio of {{execCollRatio}}%, increasing it to your Target Ratio of {{targetCollRatio}}%. Initially it will execute with at ${{executionPrice}}/{{token}}. With no min sell price. Learn More ",
+    "closed-vault-existing-trigger-header": "Your vault is closed but Auto-Sell is still active",
+    "closed-vault-existing-trigger-description": "You can cancel your existing Auto-Sell here or deposit into your vault in overview tab",
+    "closed-vault-not-existing-trigger-header": "You need to generate Dai before you can set up Auto-Sell",
+    "closed-vault-not-existing-trigger-description": "To enable Auto-Sell you need to generate Dai in overview tab",
+    "adding-new-triggers-disabled": "Creation of the new Auto-Sell trigger is currently disabled.",
+    "adding-new-triggers-disabled-description": "To protect our users, due to extreme adversarial market conditions we have currently disabled setting up NEW Auto-Sell triggers",
+    "add-content": "Your vault is currently being updated to add your Auto-Sell. Auto-Sell will not be active until this completes.",
+    "add-complete-content": "You have successfully set up an Auto-Sell on your vault. Find out more about how this works",
+    "remove-content": "Your Auto-Sell cancellation is in progress. Once the transaction is complete. Your Auto-Sell trigger will be removed.",
+    "remove-complete-content": "Your Auto-Sell has been successfully cancelled.",
+    "sl-too-high": "Auto-Sell is not available as your existing Stop-Loss Protection trigger is too high. Please <0>adjust your Stop-Loss Trigger</0> below {{maxStopLoss}}% before using Auto-Sell.",
+    "coll-ratio-too-high": "Auto-Sell is not available as your Collateral Ratio is too high. Please <0>lower your collateral ratio</0> below {{maxAutoBuyCollRatio}}% before using Auto-Sell.",
+    "banner": {
+      "header": "Stop scrambling to manage a position",
+      "content": "Get peace of mind and setup Auto-Sell to automatically protect your Vault. Sell collateral to repay your debt when you most need it. Find out more about how this works",
+      "cm-warning": "Auto-Sell cannot be used if you have Constant Multiple enabled.",
+      "button": "Setup Auto-Sell"
+    }
+  },
+  "auto-buy": {
+    "title": "Auto-Buy",
+    "cancel-summary-title": "Cancel Auto-Buy order summary",
+    "form-title": "Auto-Buy Setup",
+    "continual-buy-threshold": "Recurring buy order up to {{amount}}/{{token}}",
+    "continual-buy-no-threshold": "Recurring buy order with no max",
+    "min-ratio": "min. ratio with Stop-Loss/Auto-Sell",
+    "next-buy-price": "Next buy price: {{amount}}",
+    "set-max-buy-price": "Set Max Buy Price",
+    "target-col-ratio-after-buying": "Target Col. Ratio after buying",
+    "target-coll-ratio": "Buy Target Ratio",
+    "trigger-col-ratio-to-buy-token": "Trigger Col. Ratio to buy {{token}}",
+    "trigger-coll-ratio": "Buy Trigger Ratio",
+    "buy-title": "Basic Auto-Buy Summary",
+    "add-form-title": "Auto-Buy Setup",
+    "edit-form-title": "Edit Auto-Buy",
+    "setting-form-title": "Setting Auto-Buy",
+    "cancelling-form-title": "Cancelling Auto-Buy",
+    "cancel-form-title": "Cancellation confirmation",
+    "trigger-added": "Auto-Buy Enabled",
+    "trigger-cancelled": "Auto-Buy cancellation completed",
+    "trigger-updated": "Auto-Buy Updated",
+    "target-col-ratio-each-buy": "Target Col. Ratio after each buy",
+    "target-multiple-each-buy": "Target Multiple after each buy",
+    "trigger-col-ratio-to-perfrom-buy": "Trigger Col. Ratio to perfrom each automated buy",
+    "next-buy-prices": "Next buy price(s)",
+    "total-cost-of-next-buy": "Total cost of next ETH buy",
+    "collateral-after-next-buy": "Collateral after next buy",
+    "target-ratio-with-deviation": "Target ratio with deviation",
+    "outstanding-debt-after-next-buy": "Outstanding Debt after next buy",
+    "col-to-be-purchased": "{{token}} to be purchased at next buy",
+    "closed-vault-existing-trigger-header": "Your vault is closed but Auto-Buy is still active",
+    "closed-vault-existing-trigger-description": "You can cancel your existing Auto-Buy here or deposit into your vault in overview tab",
+    "adding-new-triggers-disabled": "Creation of the new Auto-Buy trigger is currently disabled.",
+    "adding-new-triggers-disabled-description": "To protect our users, due to extreme adversarial market conditions we have currently disabled setting up NEW Auto-Buy triggers",
+    "add-content": "Your vault is currently being updated to add your Auto-Buy. Auto-Buy will not be active until this completes.",
+    "add-complete-content": "You have successfully set up an Auto-Buy on your vault. Find out more about how this works",
+    "remove-content": "Your Auto-Buy cancellation is in progress. Once the transaction is complete. Your Auto-Buy trigger will be removed.",
+    "remove-complete-content": "Your Auto-Buy has been successfully cancelled.",
+    "banner": {
+      "header": "Stop missing buying opportunities",
+      "content": "Setup Auto-Buy to automatically buy additional collateral with your Vaults debt when the price of your collateral is increasing so you never miss a buying opportunity again. Find out more about how this works",
+      "cm-warning": "Auto-Buy cannot be used if you have Constant Multiple enabled.",
+      "button": "Setup Auto-Buy"
+    },
+    "setting-auto-buy": "Setting up your Auto-Buy",
+    "cancelling-auto-buy": "Cancelling your Auto-Buy",
+    "set-trigger-description": "You are creating a recurring Buy action to trigger at a collateralization ratio of {{execCollRatio}}%, Reducing it to your Target Ratio of {{targetCollRatio}}%. Initially it will execute with at ${{executionPrice}}/{{token}}, with a Max Buy price of ${{minBuyPrice}}/{{token}}. Learn More ",
+    "set-trigger-description-no-threshold": "You are creating a recurring Buy action to trigger at a collateralization ratio of {{execCollRatio}}%, Reducing it to your Target Ratio of {{targetCollRatio}}%. Initially it will execute with at ${{executionPrice}}/{{token}}. With no min buy price. Learn More ",
+    "sl-too-high": "Auto-Buy is not available as your existing Stop-Loss Protection trigger is too high. Please <0>adjust your Stop-Loss Trigger</0> below {{maxStopLoss}}% before using Auto-Buy.",
+    "coll-ratio-too-high": "Auto-Buy is not available as your Collateral Ratio is too high. Please <0>lower your collateral ratio</0> below {{maxAutoBuyCollRatio}}% before using Auto-Buy."
+  },
+  "auto-take-profit": {
+    "title": "Take Profit",
+    "cancel-summary-title": "Cancel Take Profit order summary",
+    "form-title": "Take Profit Setup",
+    "banner": {
+      "header": "Set up Auto-Take Profit",
+      "content": "Auto-Take Profit allows you to set up an exit strategy that will automatically close your vault and take profits when your collateral hits your target price.",
+      "button": "Setup Auto-Take Profit"
+    },
+    "trigger-col-price": "Trigger {{token}} Price",
+    "trigger-col-price-explanation": "The price that {{token}} must reach in order to execute the Auto-Take profit.",
+    "estimated-profit": "Estimated Profit at close {{amount}}",
+    "estimated-profit-explanation": "Estimated Profit at Close = Collateral value (USD) at trigger - Debt value to be repaid - estimated Tx Fees",
+    "trigger-col-ratio": "Trigger Collateral Ratio",
+    "trigger-col-ratio-explanation": "The collateralization ratio that your Vault must reach in order to execute the Auto-Take profit.",
+    "current-col-ratio": "Current Collateral Ratio {{amount}}",
+    "vault-changes": {
+      "general-summary": "General summary",
+      "trigger-col-price": "Trigger {{token}} Price",
+      "trigger-collateral-ratio": "Trigger Collateral Ratio",
+      "debt-repaid": "Debt Repaid",
+      "col-price-impact": "ETH Price (impact)",
+      "total-transaction-cost": "Total transaction cost on trigger",
+      "estimated-oasis-fee": "Estimated Zin fee",
+      "estimated-gas-fee": "Estimated gas fee",
+      "setup-transaction-cost": "Setup transaction cost"
+    }
+  },
+
+  "automation": {
+    "setup": "{{feature}} Setup",
+    "trigger-added": "{{feature}} Enabled",
+    "trigger-cancelled": "{{feature}} cancellation completed",
+    "trigger-updated": "{{feature}} Updated",
+    "add-trigger": "Add {{feature}}",
+    "edit-trigger": "Edit {{feature}}",
+    "setting": "Setting {{feature}}",
+    "updating": "Updating {{feature}}",
+    "cancelling": "Cancelling {{feature}}",
+    "update-trigger": "Update {{feature}}",
+    "cancel-trigger": "Cancel {{feature}}"
+  },
+  "optimization": {
+    "zero-debt-heading": "You need to Generate DAI before you can set up Optimization",
+    "zero-debt-description": "zin.app Optimization allows you to set up a dynamic Auto-Buy and Constant Multiple Strategies on your vault based on the collateralization ratio. This will increase or decrease your exposure to the collateral asset as the price changed. Learn more about how it works",
+    "adding-new-triggers-disabled": "Creation of the new Optimization triggers is currently disabled.",
+    "adding-new-triggers-disabled-description": "To protect our users, due to extreme adversarial market conditions we have currently disabled setting up NEW Optimization triggers",
+    "unable-to-access-optimization": "Unable to access Optimization"
+  },
+  "constant-multiple": {
+    "title": "Constant Multiple",
+    "add-form-title": "Constant Multiple Setup",
+    "setting-form-title": "Setting Constant Multiple",
+    "cancelling-form-title": "Cancelling Constant Multiple",
+    "edit-form-title": "Edit Constant Multiple",
+    "cancel-form-title": "Cancellation confirmation",
+    "trigger-added": "Constant Multiple Enabled",
+    "trigger-cancelled": "Constant Multiple cancellation completed",
+    "trigger-updated": "Constant Multiple Updated",
+    "set-trigger-description": "The Constant Multiple Automation will sell {{token}} at a col. ratio of {{sellExecutionCollRatio}}% and will buy {{token}} at a col. ratio of {{buyExecutionCollRatio}}% returning your vault's multiple to {{multiplier}}x.",
+    "set-trigger-risk": "Please Note - Constant Multiple is an advanced strategy, with risks that should be well understood before set-up. Find out more ",
+    "target-multiple": "Target Multiple",
+    "target-col-ratio": "Target Col. Ratio {{amount}}",
+    "operating-cost": "Operating Cost",
+    "operating-cost-desc": "The cost of setting up and running your Constant Multiple.\nSet up cost + execution costs = Operating Cost",
+    "pnl-since-enabled": "P&L since enabled: {{amount}}",
+    "cancel-instructions": "To cancel the Constant Multiple you'll need to click the button below and confirm the transaction.",
+    "banner": {
+      "header": "Set and forget with Constant Multiple",
+      "content": "Remove the day to day management of your Vault by taking advantage of volatility and staying at your target multiple. So when the market adjusts, so does your Vault. Find out more about how this works",
+      "button": "Setup Constant Multiple"
+    },
+    "vault-changes": {
+      "general-summary": "General summary",
+      "cancel-summary": "Cancel summary",
+      "buy-sell-trigger-summary": "Buy and Sell Trigger Summary",
+      "target-col-ratio-after-buy-sell": "Target Col. Ratio after each buy/sell",
+      "target-multiple-ratio-after-buy-sell": "Target Multiple after each buy/sell",
+      "cost-per-adjustment": "Estimated  transaction cost per adjustment",
+      "max-price-buy": "Max price to perform auto buy",
+      "max-price-sell": "Min price to perform auto sell",
+      "estimated-oasis-fee": "Estimated Zin fee",
+      "estimated-max-gas-fee": "Estimated max gas fee"
+    },
+    "adding-constant-multiple": "Adding Constant Multiple trigger",
+    "adjusting-constant-multiple": "Adjusting Constant Multiple trigger",
+    "removing-constant-multiple": "Removing Constant Multiple trigger",
+    "setting-constant-multiple": "Setting up your Constant Multiple",
+    "cancelling-constant-multiple": "Cancelling your Constant Multiple",
+    "adding-new-triggers-disabled": "Creation of the new Constant Multiple trigger is currently disabled.",
+    "adding-new-triggers-disabled-description": "To protect our users, due to extreme adversarial market conditions we have currently disabled setting up NEW Constant Multiple triggers",
+    "sl-too-high": "Constant Multiple is not available as your existing Stop-Loss Protection trigger is too high. Please <0>adjust your Stop-Loss Trigger</0> below {{maxStopLoss}}% before using Constant Multiple.",
+    "coll-ratio-too-close-to-dust-limit": "Constant Multiple is not available as your current Col. Ratio is close to dust limit. Please <0>adjust your Col. Ratio</0> before using Constant Multiple.",
+    "closed-vault-existing-trigger-header": "Your vault is closed but Constant Multiple is still active",
+    "closed-vault-existing-trigger-description": "You can cancel your existing Constant Multiple here or deposit into your vault in overview tab"
+  },
+  "ref": {
+    "banner": "Refer a Friend. Earn DAI today",
+    "ref-a-friend": "Refer a Friend",
+    "intro-1": "Refer someone to us and you both get rewarded with 5% of all fees they generate on zin.app... forever! Read more about ",
+    "intro-link": "Zin Refer a Friend",
+    "total": "Total DAI fees earned",
+    "not-claimed": "DAI not claimed",
+    "claim": "Claim DAI",
+    "claimed": "Claimed",
+    "no-claim": "No claims",
+    "claiming": "Claiming",
+    "top": "Top earners",
+    "link": "Your zin.app referral link",
+    "copy": "Copy",
+    "copied": "Copied",
+    "explanation": "Once someone clicks your referral link and accepts then you will see them appear in the “Accounts you’ve referred” below. Then you are all set, fee sharing is active! Your link is reusable as many times as you like.",
+    "faq-link": "Read more in Zin Referral Guide",
+    "you-referred": "Accounts you've referred",
+    "not-referred-yet": "You haven’t referred anyone yet",
+    "you-were-not-referred": "No account has referred you to zin.app",
+    "you-have-been-invited": "You have been invited by ",
+    "accept-invite": "Accept Invite",
+    "reject-invite": "Reject Invite",
+    "referred-you": "Account that referred you",
+    "get-started": "Get started",
+    "how": "How it works",
+    "how-p1-not-connected": "1. Connect your ETH wallet to zin.app",
+    "how-p1-connected": "1. Click <1>‘Get Started’</1> below",
+    "how-p2": "2. Share your link with potential zin.app users",
+    "how-p3": "3. Both receive 5% of the zin.app fees generated forever!",
+    "need-help": "Need help?",
+    "help-link-1": "Zin Referrals Guide",
+    "help-link-2": "Visit Zin Knowledge Centre",
+    "etherscan": "Etherscan",
+    "modal": {
+      "you-have-been-ref": "You have been invited to the zin.app Refer a Friend program by ",
+      "body-text": "zin.app is the most trusted place to deploy capital into Defi. By joining our Refer a Friend program you:",
+      "p1_1": "Receive 5% of all ",
+      "p1_2": "fees you generate on zin.app",
+      "p2": "Completely free, claim anytime",
+      "p3": "All fees paid in DAI",
+      "dont-earn": "Don't earn with fee sharing",
+      "read": "Read More",
+      "accept": "Accept invite",
+      "later": "Decide later",
+      "joined": "You have successfully joined the zin.app Refer a Friend program.",
+      "joined-body": "You will now receive 5% of all fees that you generate on zin.app. You can now go directly to the zin.app homepage and start exploring products to deploy capital into Defi.",
+      "go-home": "Go to zin.app homepage ",
+      "go-dashboard": "Go to referral dashboard ",
+      "link-1": "zin.app Referral Blog Post, ",
+      "link-2": "Referral Guide",
+      "successful-body": "You will now receive 5% of all fees that they generate on zin.app. You can now go directly to the zin.app homepage or see your referral dashboard.",
+      "successful-head": "You have successfully referred  <1>{{referred}}</1> to the zin.app Refer a Friend program.",
+      "successful-join": "You have successfully joined the zin.app Refer a Friend program."
+    }
+  },
+  "notifications": {
+    "notifications-center": "Notifications",
+    "notifications-preferences": "Notifications preferences",
+    "enable-notifications-email-heading": "Enable email notifications",
+    "enable-notifications-email-description": "You are able to receive the email updates on zin.app",
+    "enable-notifications-email-placeholder": "Enter email...",
+    "confirm-btn": "Confirm",
+    "change-btn": "Change",
+    "email-entered": "You have set up email notifcations successfully.",
+    "enable-notifications-email-label": "Set up your email",
+    "approaching-liquidation": "Your vault #{{vaultId}} col. ratio got within 5% of the liquidation price on {{humanDate}}.",
+    "approaching-trigger": "Your vault #{{vaultId}} is approaching {{trigger}} trigger. <1><2>View vault</2></1>",
+    "email-save-failure": "We couldn't save your e-mail address. Please try again later.",
+    "invalid-email": "Invalid email address format, please try again.",
+    "vault-liquidated": "Your vault #{{vaultId}} was liquidated on {{humanDate}} at ${{usdPrice}}.",
+    "stop-loss-executed": "Your Stop-Loss Protection on vault #{{vaultId}} was executed on {{humanDate}} at ${{usdPrice}}.",
+    "auto-buy-executed": "Your Auto-Buy on vault #{{vaultId}} was executed on {{humanDate}} at ${{usdPrice}}.",
+    "auto-sell-executed": "Your Auto-Sell on vault #{{vaultId}} was executed on {{humanDate}} at ${{usdPrice}}.",
+    "constant-multiple-executed": "Your Constant Multiple on vault #{{vaultId}} was executed on {{humanDate}} at ${{usdPrice}}.",
+    "oracle-price-changed": "Oracle price changed ${{usdPrice}}.",
+    "action-notifications": "Vault action notifications",
+    "action-notifications-description": "Receive a notification when an action occurs on your Vault.",
+    "info-notifications": "Vault info notifications",
+    "info-notifications-description": "Receive notifications with important, timely information, so you can adjust your Vault.",
+    "user-communication-notifications": "zin.app user communication notifications",
+    "user-communication-notifications-description": "Something explains users will get the latest updates if they turn on notifications",
+    "news-notifications": "zin.app news notifications",
+    "news-notifications-description": "Something explains users will get the latest updates if they turn on notifications",
+    "service-not-available": "Notification service not available, please try again later.",
+    "welcome-to-notifications": "Welcome to your Notification Center!",
+    "zero-notifications": "When available, your notifications will appear here.",
+    "zero-notifications-no-active-subscriptions": "Enable notifications in settings to allow them to appear here."
+  },
+  "manage-earn": {
+    "aave": {
+      "vault-form": {
+        "deposit": "Deposit ETH",
+        "title": "Your Earn position",
+        "close-title": "Close position to ETH",
+        "close": "Close vault",
+        "confirm-btn": "Confirm",
+        "close-description": "To close your vault, a part of your position will be sold to payback the outstanding debt. The rest of your collateral will be send to your address.",
+        "stop-close": "Not right now",
+        "eth-after-closing": "ETH after closing",
+        "retry-btn": "Retry"
+      }
+    }
+  },
+  "open-earn": {
+    "aave": {
+      "product-header": {
+        "token-pair-list": {
+          "aave-steth-eth": "AAVE stETH yield multiple"
+        },
+        "current-yield": "Current yield",
+        "90-day-avg-yield": "90 Day Avg",
+        "total-value-locked": "Total value locked"
+      },
+      "vault-form": {
+        "title": "Set up Earn strategy",
+        "open-btn": "Open Earn position",
+        "confirm-btn": "Confirm",
+        "retry-btn": "Retry",
+        "success-title": "All done! You've opened a position",
+        "go-to-position": "Go to position",
+        "configure-multiple": {
+          "title": "Set your risk level",
+          "liquidation-price": "stETH/ETH Liquidation Price",
+          "steth-eth-historial-ratio": "stETH / ETH Historical Ratio",
+          "back-to-enter-eth": "Back to enter ETH",
+          "increase-risk": "Increase risk",
+          "decrease-risk": "Decrease risk"
+        }
+      }
+    }
+  },
+  "brand-assets": {
+    "heading": "Brand Assets",
+    "intro": "Find here the zin.app Logo and graphics.",
+    "intro-cta": "Download all assets",
+    "category": {
+      "logo": {
+        "heading": "Logo",
+        "info": "Please don’t modify, edit, or distort the logo."
+      },
+      "palm-leaf": {
+        "heading": "The Palm Leaf",
+        "info": "lease only use the mark-only logo in these situations: The full-version logo is illegible, a limited space to display the full-version logo or zin.app brand is already established well."
+      },
+      "minimum-size": {
+        "heading": "Minimum Size",
+        "info": "To avoiding the logo are too small to read, please apply the minimum size at least.",
+        "digital": "Digital",
+        "print": "Print",
+        "digital-minimum-size": "72px",
+        "print-minimum-size": "2cm",
+        "width": "(Width)"
+      },
+      "best-practices": {
+        "heading": "Best Practices",
+        "info": "Please avoid the examples blow when using the logo.",
+        "no-gradient": "Do not use gradient for the wordmark",
+        "no-shadow": "Do not add shadow",
+        "no-rotate": "Do not rotate the logo",
+        "no-alone": "Do not use the wordmark alone",
+        "no-stack": "Do not stack the logo",
+        "no-ratio": "Do not change the ratio"
+      }
+    }
+  },
+  "security": {
+    "heading": "Why do users trust us?",
+    "intro": "zin.app is one of the oldest DeFi products with a rigorous approach to security. Users from all over the world trust us with billions of dollars of their funds.",
+    "category": {
+      "people": {
+        "header": "Talented people",
+        "description": "A highly experienced and dedicated team of DeFi builders. We’ve built and launched some of the most popular DeFi protocols and products.",
+        "link-about": "Meet our Team"
+      },
+      "audit": {
+        "header": "Independently audited",
+        "description": "Our stringent security procedures didn’t occur by luck. It came about with a rigorous process of both internal and external audits.",
+        "link-multiply": "Multiply Audit Report",
+        "link-multiply-fmm": "Multiply FMM extension audit report",
+        "link-automation": "Automation Audit Report"
+      },
+      "bug": {
+        "header": "Bug bounty",
+        "description": "Working with a community of code reviewers, ethical and white hat hackers we are giving rewards of up to $100k indentify any bugs.",
+        "link-bug-bounty": "Go to Bug Bounty"
+      },
+      "shield": {
+        "header": "Privacy protection",
+        "description": "We don't collect any personal identifiable information and do not track or store IP addresses or locations.",
+        "link-privacy": "View Privacy Policy"
+      }
+    }
+  }
+}
